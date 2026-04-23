@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-23T11:26:37.995Z",
+  "generatedAt": "2026-04-23T16:28:36.321Z",
   "total": 913,
-  "ownedCount": 66,
-  "missingCount": 847,
-  "duplicatesTotal": 0,
+  "ownedCount": 76,
+  "missingCount": 837,
+  "duplicatesTotal": 8,
   "owned": [
     {
       "id": "1",
@@ -54,6 +54,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "123 joško gvardiol croatia core / hero"
+    },
+    {
+      "id": "129",
+      "number": "129",
+      "code": "129",
+      "name": "Andrej Kramarić",
+      "country": "Croatia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "129 andrej kramarić croatia core / hero"
     },
     {
       "id": "13",
@@ -114,6 +124,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "210 abdul issahaku fatawu ghana core / hero"
+    },
+    {
+      "id": "226",
+      "number": "226",
+      "code": "226",
+      "name": "Mehdi Taremi",
+      "country": "Iran",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "226 mehdi taremi iran special 1 / fan favourite"
     },
     {
       "id": "227",
@@ -276,6 +296,16 @@
       "searchText": "349 orlando mosquera panama core / hero"
     },
     {
+      "id": "361",
+      "number": "361",
+      "code": "361",
+      "name": "Roberto Fernández",
+      "country": "Paraguay",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "361 roberto fernández paraguay core / hero"
+    },
+    {
       "id": "366",
       "number": "366",
       "code": "366",
@@ -356,6 +386,16 @@
       "searchText": "429 nicolas jackson senegal core / hero"
     },
     {
+      "id": "433",
+      "number": "433",
+      "code": "433",
+      "name": "Siyabonga Ngezana",
+      "country": "South Africa",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "433 siyabonga ngezana south africa core / hero"
+    },
+    {
       "id": "447",
       "number": "447",
       "code": "447",
@@ -374,6 +414,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "45 craig goodwin australia core / hero"
+    },
+    {
+      "id": "457",
+      "number": "457",
+      "code": "457",
+      "name": "Gregor Kobel",
+      "country": "Switzerland",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "457 gregor kobel switzerland core / hero"
     },
     {
       "id": "458",
@@ -526,6 +576,16 @@
       "searchText": "532 demarai gray jamaica core / contender"
     },
     {
+      "id": "539",
+      "number": "539",
+      "code": "539",
+      "name": "Robert Lewandowski",
+      "country": "Poland",
+      "type": "CORE / Contender",
+      "typeGroup": "CORE",
+      "searchText": "539 robert lewandowski poland core / contender"
+    },
+    {
       "id": "548",
       "number": "548",
       "code": "548",
@@ -566,6 +626,16 @@
       "searchText": "572 moisés caicedo ecuador special 2 / midfield maestro"
     },
     {
+      "id": "576",
+      "number": "576",
+      "code": "576",
+      "name": "Sofyan Amrabat",
+      "country": "Marocco",
+      "type": "SPECIAL 2 / Midfield Maestro",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "576 sofyan amrabat marocco special 2 / midfield maestro"
+    },
+    {
       "id": "581",
       "number": "581",
       "code": "581",
@@ -574,6 +644,16 @@
       "type": "SPECIAL 2 / Midfield Maestro",
       "typeGroup": "SPECIAL 2",
       "searchText": "581 rodri spain special 2 / midfield maestro"
+    },
+    {
+      "id": "589",
+      "number": "589",
+      "code": "589",
+      "name": "Jonathan David",
+      "country": "Canada",
+      "type": "SPECIAL 2 / Goal Machine",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "589 jonathan david canada special 2 / goal machine"
     },
     {
       "id": "61",
@@ -626,6 +706,16 @@
       "searchText": "624 trophy - ultra rare / official emblem"
     },
     {
+      "id": "65",
+      "number": "65",
+      "code": "65",
+      "name": "Amadou Onana",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "65 amadou onana belgium core / hero"
+    },
+    {
       "id": "67",
       "number": "67",
       "code": "67",
@@ -644,6 +734,16 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "72 vinícius júnior brazil special 1 / icon"
+    },
+    {
+      "id": "80",
+      "number": "80",
+      "code": "80",
+      "name": "Matheus Cunha",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "80 matheus cunha brazil core / hero"
     },
     {
       "id": "88",
@@ -946,16 +1046,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "128 ante budimir croatia core / hero"
-    },
-    {
-      "id": "129",
-      "number": "129",
-      "code": "129",
-      "name": "Andrej Kramarić",
-      "country": "Croatia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "129 andrej kramarić croatia core / hero"
     },
     {
       "id": "130",
@@ -1966,16 +2056,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "225 don deedson louicius haiti core / hero"
-    },
-    {
-      "id": "226",
-      "number": "226",
-      "code": "226",
-      "name": "Mehdi Taremi",
-      "country": "Iran",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "226 mehdi taremi iran special 1 / fan favourite"
     },
     {
       "id": "228",
@@ -3308,16 +3388,6 @@
       "searchText": "360 miguel almirón paraguay special 1 / icon"
     },
     {
-      "id": "361",
-      "number": "361",
-      "code": "361",
-      "name": "Roberto Fernández",
-      "country": "Paraguay",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "361 roberto fernández paraguay core / hero"
-    },
-    {
       "id": "362",
       "number": "362",
       "code": "362",
@@ -4028,16 +4098,6 @@
       "searchText": "432 ronwen williams south africa special 1 / icon"
     },
     {
-      "id": "433",
-      "number": "433",
-      "code": "433",
-      "name": "Siyabonga Ngezana",
-      "country": "South Africa",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "433 siyabonga ngezana south africa core / hero"
-    },
-    {
       "id": "434",
       "number": "434",
       "code": "434",
@@ -4266,16 +4326,6 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "456 granit xhaka switzerland special 1 / icon"
-    },
-    {
-      "id": "457",
-      "number": "457",
-      "code": "457",
-      "name": "Gregor Kobel",
-      "country": "Switzerland",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "457 gregor kobel switzerland core / hero"
     },
     {
       "id": "459",
@@ -5028,16 +5078,6 @@
       "searchText": "538 sebastian szymański poland core / contender"
     },
     {
-      "id": "539",
-      "number": "539",
-      "code": "539",
-      "name": "Robert Lewandowski",
-      "country": "Poland",
-      "type": "CORE / Contender",
-      "typeGroup": "CORE",
-      "searchText": "539 robert lewandowski poland core / contender"
-    },
-    {
       "id": "54",
       "number": "54",
       "code": "54",
@@ -5398,16 +5438,6 @@
       "searchText": "575 florian wirtz germany special 2 / midfield maestro"
     },
     {
-      "id": "576",
-      "number": "576",
-      "code": "576",
-      "name": "Sofyan Amrabat",
-      "country": "Marocco",
-      "type": "SPECIAL 2 / Midfield Maestro",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "576 sofyan amrabat marocco special 2 / midfield maestro"
-    },
-    {
       "id": "577",
       "number": "577",
       "code": "577",
@@ -5526,16 +5556,6 @@
       "type": "SPECIAL 2 / Goal Machine",
       "typeGroup": "SPECIAL 2",
       "searchText": "588 raphinha brazil special 2 / goal machine"
-    },
-    {
-      "id": "589",
-      "number": "589",
-      "code": "589",
-      "name": "Jonathan David",
-      "country": "Canada",
-      "type": "SPECIAL 2 / Goal Machine",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "589 jonathan david canada special 2 / goal machine"
     },
     {
       "id": "59",
@@ -6188,16 +6208,6 @@
       "searchText": "648 roony bardghji sweden special 3 / contender nordic master rookie"
     },
     {
-      "id": "65",
-      "number": "65",
-      "code": "65",
-      "name": "Amadou Onana",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "65 amadou onana belgium core / hero"
-    },
-    {
       "id": "66",
       "number": "66",
       "code": "66",
@@ -6336,16 +6346,6 @@
       "type": "RARE / Golden Baller",
       "typeGroup": "RARE",
       "searchText": "8 cristiano ronaldo portugal rare / golden baller"
-    },
-    {
-      "id": "80",
-      "number": "80",
-      "code": "80",
-      "name": "Matheus Cunha",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "80 matheus cunha brazil core / hero"
     },
     {
       "id": "81",
@@ -9138,5 +9138,12 @@
       "searchText": "xxlh-vvd virgil van dijk netherlands xxl limited edition panini hologram"
     }
   ],
-  "duplicates": {}
+  "duplicates": {
+    "13": 1,
+    "53": 1,
+    "88": 2,
+    "230": 2,
+    "342": 1,
+    "539": 1
+  }
 }
