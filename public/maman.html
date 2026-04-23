@@ -1,0 +1,58 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>Suivi Panini famille (live)</title>
+  <style>
+  body{font-family:Arial,sans-serif;padding:16px;line-height:1.35}
+  h1{color:#0b3c91}h2{margin-top:20px}
+  .meta{background:#f3f6ff;padding:10px;border-radius:8px}
+  .controls{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+  input,select,button{padding:8px;border:1px solid #ccc;border-radius:8px}
+  table{width:100%;border-collapse:collapse;margin:8px 0}
+  th,td{border:1px solid #ddd;padding:6px;text-align:left;font-size:14px}
+  th{background:#f8fafc}
+  .hint{color:#6b7280}
+  </style></head><body>
+  <h1>Suivi collection Panini FIFA 2026 (live)</h1>
+  <p class="hint">Source live: collection-state.json</p>
+  <div class="controls">
+    <input id="q" placeholder="Recherche code ou nom..." />
+    <select id="country"><option value="ALL">Tous pays</option></select>
+    <select id="type"><option value="ALL">Toutes catégories</option></select>
+    <select id="scope"><option value="MISSING">Manquantes</option><option value="OWNED">Possédées</option></select>
+    <button id="reload">Rafraîchir</button>
+  </div>
+  <div class="meta" id="meta">Chargement...</div>
+  <h2 id="titleList">Cartes manquantes</h2>
+  <table><thead><tr><th>Code</th><th>Nom</th><th>Pays</th><th>Type</th></tr></thead><tbody id="rows"></tbody></table>
+  <script>
+  let data = null;
+  const els={q:document.getElementById('q'),country:document.getElementById('country'),type:document.getElementById('type'),scope:document.getElementById('scope'),rows:document.getElementById('rows'),title:document.getElementById('titleList'),meta:document.getElementById('meta'),reload:document.getElementById('reload')};
+  function unique(arr,key){return [...new Set(arr.map(x=>x[key]).filter(Boolean))].sort();}
+  function fillFilters(){
+    els.country.innerHTML='<option value="ALL">Tous pays</option>';
+    els.type.innerHTML='<option value="ALL">Toutes catégories</option>';
+    unique([...(data.owned||[]),...(data.missing||[])],'country').forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;els.country.appendChild(o);});
+    unique([...(data.owned||[]),...(data.missing||[])],'type').forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;els.type.appendChild(o);});
+  }
+  function render(){
+    if(!data) return;
+    const q=(els.q.value||'').toLowerCase().trim();
+    const c=els.country.value; const t=els.type.value; const s=els.scope.value;
+    const list=(s==='OWNED'?(data.owned||[]):(data.missing||[])).filter(it=>{
+      if(c!=='ALL'&&it.country!==c) return false;
+      if(t!=='ALL'&&it.type!==t) return false;
+      if(q && !(`${it.code} ${it.name}`.toLowerCase().includes(q))) return false;
+      return true;
+    });
+    els.title.textContent=s==='OWNED'?'Cartes possédées':'Cartes manquantes';
+    els.rows.innerHTML=list.map(it=>`<tr><td>${it.code||''}</td><td>${it.name||''}</td><td>${it.country||''}</td><td>${it.type||''}</td></tr>`).join('');
+  }
+  async function load(){
+    const r = await fetch('collection-state.json?t='+Date.now());
+    data = await r.json();
+    els.meta.innerHTML=`<p>Total: ${data.total||0}</p><p>Possédées: ${data.ownedCount||0}</p><p>Manquantes: ${data.missingCount||0}</p><p>Mise à jour: ${new Date(data.generatedAt||Date.now()).toLocaleString('fr-FR')}</p>`;
+    fillFilters();
+    render();
+  }
+  ['input','change'].forEach(ev=>{els.q.addEventListener(ev,render);els.country.addEventListener(ev,render);els.type.addEventListener(ev,render);els.scope.addEventListener(ev,render);});
+  els.reload.addEventListener('click',load);
+  load();
+  </script></body></html>
