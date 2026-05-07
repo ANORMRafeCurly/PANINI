@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-07T16:00:42.841Z",
+  "generatedAt": "2026-05-07T16:02:13.938Z",
   "total": 913,
-  "ownedCount": 124,
-  "missingCount": 789,
+  "ownedCount": 131,
+  "missingCount": 782,
   "duplicatesTotal": 13,
   "owned": [
     {
@@ -206,6 +206,16 @@
       "searchText": "100 joão paulo cape verde core / hero"
     },
     {
+      "id": "107",
+      "number": "107",
+      "code": "107",
+      "name": "Team Crest",
+      "country": "Colombia",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "107 team crest colombia special 2 / team crest"
+    },
+    {
       "id": "108",
       "number": "108",
       "code": "108",
@@ -396,6 +406,16 @@
       "searchText": "210 abdul issahaku fatawu ghana core / hero"
     },
     {
+      "id": "215",
+      "number": "215",
+      "code": "215",
+      "name": "Team Crest",
+      "country": "Haiti",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "215 team crest haiti special 2 / team crest"
+    },
+    {
       "id": "226",
       "number": "226",
       "code": "226",
@@ -424,6 +444,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "230 shoja khalilzadeh iran core / hero"
+    },
+    {
+      "id": "248",
+      "number": "248",
+      "code": "248",
+      "name": "Simon Adingra",
+      "country": "Ivory Coast",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "248 simon adingra ivory coast core / hero"
     },
     {
       "id": "253",
@@ -476,6 +506,16 @@
       "searchText": "291 johan vásquez mexico core / hero"
     },
     {
+      "id": "296",
+      "number": "296",
+      "code": "296",
+      "name": "Hirving Lozano",
+      "country": "Mexico",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "296 hirving lozano mexico core / hero"
+    },
+    {
       "id": "298",
       "number": "298",
       "code": "298",
@@ -494,6 +534,16 @@
       "type": "SPECIAL 2 / Team Crest",
       "typeGroup": "SPECIAL 2",
       "searchText": "299 team crest morocco special 2 / team crest"
+    },
+    {
+      "id": "301",
+      "number": "301",
+      "code": "301",
+      "name": "Yassine Bounou",
+      "country": "Morocco",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "301 yassine bounou morocco core / hero"
     },
     {
       "id": "302",
@@ -526,6 +576,16 @@
       "searchText": "306 ismael saibari morocco core / hero"
     },
     {
+      "id": "311",
+      "number": "311",
+      "code": "311",
+      "name": "Team Crest",
+      "country": "Netherlands",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "311 team crest netherlands special 2 / team crest"
+    },
+    {
       "id": "316",
       "number": "316",
       "code": "316",
@@ -554,6 +614,16 @@
       "type": "SPECIAL 2 / Team Crest",
       "typeGroup": "SPECIAL 2",
       "searchText": "323 team crest new zealand special 2 / team crest"
+    },
+    {
+      "id": "331",
+      "number": "331",
+      "code": "331",
+      "name": "Sarpreet Singh",
+      "country": "New Zealand",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "331 sarpreet singh new zealand core / hero"
     },
     {
       "id": "337",
@@ -2108,16 +2178,6 @@
       "searchText": "106 luis díaz colombia special 1 / fan favourite"
     },
     {
-      "id": "107",
-      "number": "107",
-      "code": "107",
-      "name": "Team Crest",
-      "country": "Colombia",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "107 team crest colombia special 2 / team crest"
-    },
-    {
       "id": "109",
       "number": "109",
       "code": "109",
@@ -2998,16 +3058,6 @@
       "searchText": "214 frantzdy pierrot haiti special 1 / fan favourite"
     },
     {
-      "id": "215",
-      "number": "215",
-      "code": "215",
-      "name": "Team Crest",
-      "country": "Haiti",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "215 team crest haiti special 2 / team crest"
-    },
-    {
       "id": "216",
       "number": "216",
       "code": "216",
@@ -3296,16 +3346,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "247 nicolas pépé ivory coast core / hero"
-    },
-    {
-      "id": "248",
-      "number": "248",
-      "code": "248",
-      "name": "Simon Adingra",
-      "country": "Ivory Coast",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "248 simon adingra ivory coast core / hero"
     },
     {
       "id": "249",
@@ -3728,16 +3768,6 @@
       "searchText": "295 orbelín pineda mexico core / hero"
     },
     {
-      "id": "296",
-      "number": "296",
-      "code": "296",
-      "name": "Hirving Lozano",
-      "country": "Mexico",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "296 hirving lozano mexico core / hero"
-    },
-    {
       "id": "297",
       "number": "297",
       "code": "297",
@@ -3756,16 +3786,6 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "300 achraf hakimi morocco special 1 / icon"
-    },
-    {
-      "id": "301",
-      "number": "301",
-      "code": "301",
-      "name": "Yassine Bounou",
-      "country": "Morocco",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "301 yassine bounou morocco core / hero"
     },
     {
       "id": "303",
@@ -3826,16 +3846,6 @@
       "type": "SPECIAL 1 / Fan Favourite",
       "typeGroup": "SPECIAL 1",
       "searchText": "310 memphis depay netherlands special 1 / fan favourite"
-    },
-    {
-      "id": "311",
-      "number": "311",
-      "code": "311",
-      "name": "Team Crest",
-      "country": "Netherlands",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "311 team crest netherlands special 2 / team crest"
     },
     {
       "id": "312",
@@ -3996,16 +4006,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "330 joe bell new zealand core / hero"
-    },
-    {
-      "id": "331",
-      "number": "331",
-      "code": "331",
-      "name": "Sarpreet Singh",
-      "country": "New Zealand",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "331 sarpreet singh new zealand core / hero"
     },
     {
       "id": "332",
@@ -9144,7 +9144,7 @@
     "88": 2,
     "129": 1,
     "230": 2,
-    "323": 1,
+    "331": 1,
     "342": 1,
     "366": 1,
     "397": 1,
