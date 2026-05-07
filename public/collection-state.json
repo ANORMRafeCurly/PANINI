@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-07T16:02:13.938Z",
+  "generatedAt": "2026-05-07T16:22:18.220Z",
   "total": 913,
-  "ownedCount": 131,
-  "missingCount": 782,
+  "ownedCount": 227,
+  "missingCount": 686,
   "duplicatesTotal": 13,
   "owned": [
     {
@@ -56,6 +56,26 @@
       "searchText": "13 alexis guendouz algeria core / hero"
     },
     {
+      "id": "14",
+      "number": "14",
+      "code": "14",
+      "name": "Ramy Bensebaini",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "14 ramy bensebaini algeria core / hero"
+    },
+    {
+      "id": "17",
+      "number": "17",
+      "code": "17",
+      "name": "Nabil Bentaleb",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "17 nabil bentaleb algeria core / hero"
+    },
+    {
       "id": "24",
       "number": "24",
       "code": "24",
@@ -64,6 +84,26 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "24 lionel messi argentina special 1 / icon"
+    },
+    {
+      "id": "27",
+      "number": "27",
+      "code": "27",
+      "name": "Cristian Romero",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "27 cristian romero argentina core / hero"
+    },
+    {
+      "id": "29",
+      "number": "29",
+      "code": "29",
+      "name": "Enzo Fernández",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "29 enzo fernández argentina core / hero"
     },
     {
       "id": "31",
@@ -76,6 +116,46 @@
       "searchText": "31 rodrigo de paul argentina core / hero"
     },
     {
+      "id": "33",
+      "number": "33",
+      "code": "33",
+      "name": "Lautato Martínez",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "33 lautato martínez argentina core / hero"
+    },
+    {
+      "id": "37",
+      "number": "37",
+      "code": "37",
+      "name": "Alessandro Circati",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "37 alessandro circati australia core / hero"
+    },
+    {
+      "id": "39",
+      "number": "39",
+      "code": "39",
+      "name": "Lewis Miller",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "39 lewis miller australia core / hero"
+    },
+    {
+      "id": "42",
+      "number": "42",
+      "code": "42",
+      "name": "Riley McGree",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "42 riley mcgree australia core / hero"
+    },
+    {
       "id": "45",
       "number": "45",
       "code": "45",
@@ -86,6 +166,16 @@
       "searchText": "45 craig goodwin australia core / hero"
     },
     {
+      "id": "49",
+      "number": "49",
+      "code": "49",
+      "name": "Alexander Schlager",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "49 alexander schlager austria core / hero"
+    },
+    {
       "id": "50",
       "number": "50",
       "code": "50",
@@ -94,6 +184,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "50 kevin danso austria core / hero"
+    },
+    {
+      "id": "52",
+      "number": "52",
+      "code": "52",
+      "name": "Konrad Laimer",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "52 konrad laimer austria core / hero"
     },
     {
       "id": "53",
@@ -126,6 +226,16 @@
       "searchText": "61 thibaut courtois belgium core / hero"
     },
     {
+      "id": "64",
+      "number": "64",
+      "code": "64",
+      "name": "Maxim de Cuyper",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "64 maxim de cuyper belgium core / hero"
+    },
+    {
       "id": "65",
       "number": "65",
       "code": "65",
@@ -154,6 +264,16 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "72 vinícius júnior brazil special 1 / icon"
+    },
+    {
+      "id": "74",
+      "number": "74",
+      "code": "74",
+      "name": "Danilo",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "74 danilo brazil core / hero"
     },
     {
       "id": "80",
@@ -186,6 +306,16 @@
       "searchText": "88 stephen eustáquio canada core / hero"
     },
     {
+      "id": "91",
+      "number": "91",
+      "code": "91",
+      "name": "Jacob Shaffelburg",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "91 jacob shaffelburg canada core / hero"
+    },
+    {
       "id": "94",
       "number": "94",
       "code": "94",
@@ -196,6 +326,16 @@
       "searchText": "94 vozinha cape verde special 1 / fan favourite"
     },
     {
+      "id": "98",
+      "number": "98",
+      "code": "98",
+      "name": "Pico",
+      "country": "Cape Verde",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "98 pico cape verde core / hero"
+    },
+    {
       "id": "100",
       "number": "100",
       "code": "100",
@@ -204,6 +344,26 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "100 joão paulo cape verde core / hero"
+    },
+    {
+      "id": "103",
+      "number": "103",
+      "code": "103",
+      "name": "Yannick Semedo",
+      "country": "Cape Verde",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "103 yannick semedo cape verde core / hero"
+    },
+    {
+      "id": "104",
+      "number": "104",
+      "code": "104",
+      "name": "Jovane Cabral",
+      "country": "Cape Verde",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "104 jovane cabral cape verde core / hero"
     },
     {
       "id": "107",
@@ -236,6 +396,16 @@
       "searchText": "111 yerry mina colombia core / hero"
     },
     {
+      "id": "113",
+      "number": "113",
+      "code": "113",
+      "name": "Jefferson Lerma",
+      "country": "Colombia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "113 jefferson lerma colombia core / hero"
+    },
+    {
       "id": "120",
       "number": "120",
       "code": "120",
@@ -254,6 +424,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "123 joško gvardiol croatia core / hero"
+    },
+    {
+      "id": "124",
+      "number": "124",
+      "code": "124",
+      "name": "Josip Stanišić",
+      "country": "Croatia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "124 josip stanišić croatia core / hero"
     },
     {
       "id": "125",
@@ -296,6 +476,16 @@
       "searchText": "133 eloy room curaçao core / hero"
     },
     {
+      "id": "135",
+      "number": "135",
+      "code": "135",
+      "name": "Roshon van Eijma",
+      "country": "Curaçao",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "135 roshon van eijma curaçao core / hero"
+    },
+    {
       "id": "139",
       "number": "139",
       "code": "139",
@@ -326,6 +516,16 @@
       "searchText": "152 gonzalo plata ecuador core / hero"
     },
     {
+      "id": "153",
+      "number": "153",
+      "code": "153",
+      "name": "Kevin Rodríguez",
+      "country": "Ecuador",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "153 kevin rodríguez ecuador core / hero"
+    },
+    {
       "id": "155",
       "number": "155",
       "code": "155",
@@ -334,6 +534,56 @@
       "type": "SPECIAL 2 / Team Crest",
       "typeGroup": "SPECIAL 2",
       "searchText": "155 team crest egypt special 2 / team crest"
+    },
+    {
+      "id": "161",
+      "number": "161",
+      "code": "161",
+      "name": "Marwan Attia",
+      "country": "Egypt",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "161 marwan attia egypt core / hero"
+    },
+    {
+      "id": "164",
+      "number": "164",
+      "code": "164",
+      "name": "Mostafa Mohamed",
+      "country": "Egypt",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "164 mostafa mohamed egypt core / hero"
+    },
+    {
+      "id": "169",
+      "number": "169",
+      "code": "169",
+      "name": "Jordan Pickford",
+      "country": "England",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "169 jordan pickford england core / hero"
+    },
+    {
+      "id": "171",
+      "number": "171",
+      "code": "171",
+      "name": "John Stones",
+      "country": "England",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "171 john stones england core / hero"
+    },
+    {
+      "id": "174",
+      "number": "174",
+      "code": "174",
+      "name": "Phil Foden",
+      "country": "England",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "174 phil foden england core / hero"
     },
     {
       "id": "175",
@@ -354,6 +604,36 @@
       "type": "SPECIAL 1 / Fan Favourite",
       "typeGroup": "SPECIAL 1",
       "searchText": "178 ousmane dembélé france special 1 / fan favourite"
+    },
+    {
+      "id": "181",
+      "number": "181",
+      "code": "181",
+      "name": "Mike Maignan",
+      "country": "France",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "181 mike maignan france core / hero"
+    },
+    {
+      "id": "183",
+      "number": "183",
+      "code": "183",
+      "name": "Jules Koundé",
+      "country": "France",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "183 jules koundé france core / hero"
+    },
+    {
+      "id": "185",
+      "number": "185",
+      "code": "185",
+      "name": "Aurélien Tchouaméni",
+      "country": "France",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "185 aurélien tchouaméni france core / hero"
     },
     {
       "id": "188",
@@ -386,6 +666,26 @@
       "searchText": "196 felix nmecha germany core / hero"
     },
     {
+      "id": "197",
+      "number": "197",
+      "code": "197",
+      "name": "Leon Goretzka",
+      "country": "Germany",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "197 leon goretzka germany core / hero"
+    },
+    {
+      "id": "198",
+      "number": "198",
+      "code": "198",
+      "name": "Florian Wirtz",
+      "country": "Germany",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "198 florian wirtz germany core / hero"
+    },
+    {
       "id": "200",
       "number": "200",
       "code": "200",
@@ -394,6 +694,36 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "200 kai havertz germany core / hero"
+    },
+    {
+      "id": "201",
+      "number": "201",
+      "code": "201",
+      "name": "Leroy Sané",
+      "country": "Germany",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "201 leroy sané germany core / hero"
+    },
+    {
+      "id": "206",
+      "number": "206",
+      "code": "206",
+      "name": "Alidu Seidu",
+      "country": "Ghana",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "206 alidu seidu ghana core / hero"
+    },
+    {
+      "id": "208",
+      "number": "208",
+      "code": "208",
+      "name": "Gideon Mensah",
+      "country": "Ghana",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "208 gideon mensah ghana core / hero"
     },
     {
       "id": "210",
@@ -414,6 +744,46 @@
       "type": "SPECIAL 2 / Team Crest",
       "typeGroup": "SPECIAL 2",
       "searchText": "215 team crest haiti special 2 / team crest"
+    },
+    {
+      "id": "218",
+      "number": "218",
+      "code": "218",
+      "name": "Ricardo Adé",
+      "country": "Haiti",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "218 ricardo adé haiti core / hero"
+    },
+    {
+      "id": "220",
+      "number": "220",
+      "code": "220",
+      "name": "Hannes Delcroix",
+      "country": "Haiti",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "220 hannes delcroix haiti core / hero"
+    },
+    {
+      "id": "223",
+      "number": "223",
+      "code": "223",
+      "name": "Jean-Ricner Bellegarde",
+      "country": "Haiti",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "223 jean-ricner bellegarde haiti core / hero"
+    },
+    {
+      "id": "225",
+      "number": "225",
+      "code": "225",
+      "name": "Don Deedson Louicius",
+      "country": "Haiti",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "225 don deedson louicius haiti core / hero"
     },
     {
       "id": "226",
@@ -446,6 +816,66 @@
       "searchText": "230 shoja khalilzadeh iran core / hero"
     },
     {
+      "id": "231",
+      "number": "231",
+      "code": "231",
+      "name": "Milad Mohammadi",
+      "country": "Iran",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "231 milad mohammadi iran core / hero"
+    },
+    {
+      "id": "232",
+      "number": "232",
+      "code": "232",
+      "name": "Ramin Rezaeian",
+      "country": "Iran",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "232 ramin rezaeian iran core / hero"
+    },
+    {
+      "id": "233",
+      "number": "233",
+      "code": "233",
+      "name": "Hossein Kanaani",
+      "country": "Iran",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "233 hossein kanaani iran core / hero"
+    },
+    {
+      "id": "241",
+      "number": "241",
+      "code": "241",
+      "name": "Yahia Fofana",
+      "country": "Ivory Coast",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "241 yahia fofana ivory coast core / hero"
+    },
+    {
+      "id": "243",
+      "number": "243",
+      "code": "243",
+      "name": "Odilon Kossounou",
+      "country": "Ivory Coast",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "243 odilon kossounou ivory coast core / hero"
+    },
+    {
+      "id": "247",
+      "number": "247",
+      "code": "247",
+      "name": "Nicolas Pépé",
+      "country": "Ivory Coast",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "247 nicolas pépé ivory coast core / hero"
+    },
+    {
       "id": "248",
       "number": "248",
       "code": "248",
@@ -476,6 +906,26 @@
       "searchText": "262 yazan al-naimat jordan special 1 / fan favourite"
     },
     {
+      "id": "268",
+      "number": "268",
+      "code": "268",
+      "name": "Abdallah Nasib",
+      "country": "Jordan",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "268 abdallah nasib jordan core / hero"
+    },
+    {
+      "id": "270",
+      "number": "270",
+      "code": "270",
+      "name": "Nizar Al-Rashdan",
+      "country": "Jordan",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "270 nizar al-rashdan jordan core / hero"
+    },
+    {
       "id": "274",
       "number": "274",
       "code": "274",
@@ -484,6 +934,26 @@
       "type": "SPECIAL 1 / Fan Favourite",
       "typeGroup": "SPECIAL 1",
       "searchText": "274 min-jae kim korea republic special 1 / fan favourite"
+    },
+    {
+      "id": "279",
+      "number": "279",
+      "code": "279",
+      "name": "Yu-min Cho",
+      "country": "Korea Republic",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "279 yu-min cho korea republic core / hero"
+    },
+    {
+      "id": "280",
+      "number": "280",
+      "code": "280",
+      "name": "Tae-seok Lee",
+      "country": "Korea Republic",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "280 tae-seok lee korea republic core / hero"
     },
     {
       "id": "281",
@@ -496,6 +966,26 @@
       "searchText": "281 in-beom hwang korea republic core / hero"
     },
     {
+      "id": "284",
+      "number": "284",
+      "code": "284",
+      "name": "Hyeon-gyu Oh",
+      "country": "Korea Republic",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "284 hyeon-gyu oh korea republic core / hero"
+    },
+    {
+      "id": "290",
+      "number": "290",
+      "code": "290",
+      "name": "Israel Reyes",
+      "country": "Mexico",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "290 israel reyes mexico core / hero"
+    },
+    {
       "id": "291",
       "number": "291",
       "code": "291",
@@ -504,6 +994,26 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "291 johan vásquez mexico core / hero"
+    },
+    {
+      "id": "294",
+      "number": "294",
+      "code": "294",
+      "name": "Carlos Rodríguez",
+      "country": "Mexico",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "294 carlos rodríguez mexico core / hero"
+    },
+    {
+      "id": "295",
+      "number": "295",
+      "code": "295",
+      "name": "Orbelín Pineda",
+      "country": "Mexico",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "295 orbelín pineda mexico core / hero"
     },
     {
       "id": "296",
@@ -586,6 +1096,26 @@
       "searchText": "311 team crest netherlands special 2 / team crest"
     },
     {
+      "id": "313",
+      "number": "313",
+      "code": "313",
+      "name": "Bart Verbruggen",
+      "country": "Netherlands",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "313 bart verbruggen netherlands core / hero"
+    },
+    {
+      "id": "315",
+      "number": "315",
+      "code": "315",
+      "name": "Jeremie Frimpong",
+      "country": "Netherlands",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "315 jeremie frimpong netherlands core / hero"
+    },
+    {
       "id": "316",
       "number": "316",
       "code": "316",
@@ -606,6 +1136,16 @@
       "searchText": "318 ryan gravenberch netherlands core / hero"
     },
     {
+      "id": "321",
+      "number": "321",
+      "code": "321",
+      "name": "Wout Weghorst",
+      "country": "Netherlands",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "321 wout weghorst netherlands core / hero"
+    },
+    {
       "id": "323",
       "number": "323",
       "code": "323",
@@ -616,6 +1156,26 @@
       "searchText": "323 team crest new zealand special 2 / team crest"
     },
     {
+      "id": "326",
+      "number": "326",
+      "code": "326",
+      "name": "Michel Boxall",
+      "country": "New Zealand",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "326 michel boxall new zealand core / hero"
+    },
+    {
+      "id": "330",
+      "number": "330",
+      "code": "330",
+      "name": "Joe Bell",
+      "country": "New Zealand",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "330 joe bell new zealand core / hero"
+    },
+    {
       "id": "331",
       "number": "331",
       "code": "331",
@@ -624,6 +1184,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "331 sarpreet singh new zealand core / hero"
+    },
+    {
+      "id": "333",
+      "number": "333",
+      "code": "333",
+      "name": "Elijah Just",
+      "country": "New Zealand",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "333 elijah just new zealand core / hero"
     },
     {
       "id": "337",
@@ -696,6 +1266,36 @@
       "searchText": "349 orlando mosquera panama core / hero"
     },
     {
+      "id": "351",
+      "number": "351",
+      "code": "351",
+      "name": "Fidel Escobar",
+      "country": "Panama",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "351 fidel escobar panama core / hero"
+    },
+    {
+      "id": "354",
+      "number": "354",
+      "code": "354",
+      "name": "Édgar Bárcenas",
+      "country": "Panama",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "354 édgar bárcenas panama core / hero"
+    },
+    {
+      "id": "357",
+      "number": "357",
+      "code": "357",
+      "name": "José Luiz Rodríguez",
+      "country": "Panama",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "357 josé luiz rodríguez panama core / hero"
+    },
+    {
       "id": "360",
       "number": "360",
       "code": "360",
@@ -724,6 +1324,66 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "366 mathías villasanti paraguay core / hero"
+    },
+    {
+      "id": "367",
+      "number": "367",
+      "code": "367",
+      "name": "Julio Enciso",
+      "country": "Paraguay",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "367 julio enciso paraguay core / hero"
+    },
+    {
+      "id": "368",
+      "number": "368",
+      "code": "368",
+      "name": "Ramón Sosa",
+      "country": "Paraguay",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "368 ramón sosa paraguay core / hero"
+    },
+    {
+      "id": "373",
+      "number": "373",
+      "code": "373",
+      "name": "Diogo Costa",
+      "country": "Portugal",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "373 diogo costa portugal core / hero"
+    },
+    {
+      "id": "380",
+      "number": "380",
+      "code": "380",
+      "name": "Pedro Neto",
+      "country": "Portugal",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "380 pedro neto portugal core / hero"
+    },
+    {
+      "id": "389",
+      "number": "389",
+      "code": "389",
+      "name": "Homam Al-Amin",
+      "country": "Qatar",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "389 homam al-amin qatar core / hero"
+    },
+    {
+      "id": "391",
+      "number": "391",
+      "code": "391",
+      "name": "Edmílson Junior",
+      "country": "Qatar",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "391 edmílson junior qatar core / hero"
     },
     {
       "id": "392",
@@ -756,6 +1416,26 @@
       "searchText": "398 hassan altambakti saudi arabia core / hero"
     },
     {
+      "id": "400",
+      "number": "400",
+      "code": "400",
+      "name": "Saud Abdulhamid",
+      "country": "Saudi Arabia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "400 saud abdulhamid saudi arabia core / hero"
+    },
+    {
+      "id": "401",
+      "number": "401",
+      "code": "401",
+      "name": "Nasser Aldawsari",
+      "country": "Saudi Arabia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "401 nasser aldawsari saudi arabia core / hero"
+    },
+    {
       "id": "404",
       "number": "404",
       "code": "404",
@@ -776,6 +1456,26 @@
       "searchText": "405 saleh alshehri saudi arabia core / hero"
     },
     {
+      "id": "409",
+      "number": "409",
+      "code": "409",
+      "name": "Angus Gunn",
+      "country": "Scotland",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "409 angus gunn scotland core / hero"
+    },
+    {
+      "id": "411",
+      "number": "411",
+      "code": "411",
+      "name": "Grant Hanley",
+      "country": "Scotland",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "411 grant hanley scotland core / hero"
+    },
+    {
       "id": "416",
       "number": "416",
       "code": "416",
@@ -786,6 +1486,16 @@
       "searchText": "416 ben gannon-doak scotland core / hero"
     },
     {
+      "id": "417",
+      "number": "417",
+      "code": "417",
+      "name": "Ché Adams",
+      "country": "Scotland",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "417 ché adams scotland core / hero"
+    },
+    {
       "id": "420",
       "number": "420",
       "code": "420",
@@ -794,6 +1504,26 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "420 sadio mané senegal special 1 / icon"
+    },
+    {
+      "id": "421",
+      "number": "421",
+      "code": "421",
+      "name": "Edouard Mendy",
+      "country": "Senegal",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "421 edouard mendy senegal core / hero"
+    },
+    {
+      "id": "422",
+      "number": "422",
+      "code": "422",
+      "name": "Moussa Niakhaté",
+      "country": "Senegal",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "422 moussa niakhaté senegal core / hero"
     },
     {
       "id": "423",
@@ -866,6 +1596,46 @@
       "searchText": "433 siyabonga ngezana south africa core / hero"
     },
     {
+      "id": "434",
+      "number": "434",
+      "code": "434",
+      "name": "Aubrey Modiba",
+      "country": "South Africa",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "434 aubrey modiba south africa core / hero"
+    },
+    {
+      "id": "435",
+      "number": "435",
+      "code": "435",
+      "name": "Mbekezeli Mbokazi",
+      "country": "South Africa",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "435 mbekezeli mbokazi south africa core / hero"
+    },
+    {
+      "id": "438",
+      "number": "438",
+      "code": "438",
+      "name": "Yaya Sithole",
+      "country": "South Africa",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "438 yaya sithole south africa core / hero"
+    },
+    {
+      "id": "440",
+      "number": "440",
+      "code": "440",
+      "name": "Oswin Appollis",
+      "country": "South Africa",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "440 oswin appollis south africa core / hero"
+    },
+    {
       "id": "442",
       "number": "442",
       "code": "442",
@@ -876,6 +1646,16 @@
       "searchText": "442 lamine yamal spain special 1 / fan favourite"
     },
     {
+      "id": "445",
+      "number": "445",
+      "code": "445",
+      "name": "Unai Simón",
+      "country": "Spain",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "445 unai simón spain core / hero"
+    },
+    {
       "id": "447",
       "number": "447",
       "code": "447",
@@ -884,6 +1664,26 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "447 dean huijsen spain core / hero"
+    },
+    {
+      "id": "450",
+      "number": "450",
+      "code": "450",
+      "name": "Pedri",
+      "country": "Spain",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "450 pedri spain core / hero"
+    },
+    {
+      "id": "452",
+      "number": "452",
+      "code": "452",
+      "name": "Nico Williams",
+      "country": "Spain",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "452 nico williams spain core / hero"
     },
     {
       "id": "457",
@@ -936,6 +1736,26 @@
       "searchText": "469 aymen dahmen tunisia core / hero"
     },
     {
+      "id": "471",
+      "number": "471",
+      "code": "471",
+      "name": "Yassine Meriah",
+      "country": "Tunisia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "471 yassine meriah tunisia core / hero"
+    },
+    {
+      "id": "476",
+      "number": "476",
+      "code": "476",
+      "name": "Elias Achouri",
+      "country": "Tunisia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "476 elias achouri tunisia core / hero"
+    },
+    {
       "id": "479",
       "number": "479",
       "code": "479",
@@ -944,6 +1764,16 @@
       "type": "SPECIAL 2 / Team Crest",
       "typeGroup": "SPECIAL 2",
       "searchText": "479 team crest united states special 2 / team crest"
+    },
+    {
+      "id": "481",
+      "number": "481",
+      "code": "481",
+      "name": "Matt Freese",
+      "country": "United States",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "481 matt freese united states core / hero"
     },
     {
       "id": "486",
@@ -966,6 +1796,16 @@
       "searchText": "487 timothy weah united states core / hero"
     },
     {
+      "id": "488",
+      "number": "488",
+      "code": "488",
+      "name": "Malik Tillman",
+      "country": "United States",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "488 malik tillman united states core / hero"
+    },
+    {
       "id": "489",
       "number": "489",
       "code": "489",
@@ -986,6 +1826,16 @@
       "searchText": "490 josé maría giménez uruguay special 1 / fan favourite"
     },
     {
+      "id": "495",
+      "number": "495",
+      "code": "495",
+      "name": "Sebastián Cáceres",
+      "country": "Uruguay",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "495 sebastián cáceres uruguay core / hero"
+    },
+    {
       "id": "496",
       "number": "496",
       "code": "496",
@@ -1004,6 +1854,26 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "497 nahitan nández uruguay core / hero"
+    },
+    {
+      "id": "498",
+      "number": "498",
+      "code": "498",
+      "name": "Rodrigo Bentancur",
+      "country": "Uruguay",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "498 rodrigo bentancur uruguay core / hero"
+    },
+    {
+      "id": "499",
+      "number": "499",
+      "code": "499",
+      "name": "Manuel Ugarte",
+      "country": "Uruguay",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "499 manuel ugarte uruguay core / hero"
     },
     {
       "id": "507",
@@ -1036,6 +1906,36 @@
       "searchText": "512 otabek shukurov uzbekistan core / hero"
     },
     {
+      "id": "513",
+      "number": "513",
+      "code": "513",
+      "name": "Abbosbek Fayzullaev",
+      "country": "Uzbekistan",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "513 abbosbek fayzullaev uzbekistan core / hero"
+    },
+    {
+      "id": "515",
+      "number": "515",
+      "code": "515",
+      "name": "Team Crests",
+      "country": "Ukraine-Sweden / Poland-Albania",
+      "type": "CORE / Contenders",
+      "typeGroup": "CORE",
+      "searchText": "515 team crests ukraine-sweden / poland-albania core / contenders"
+    },
+    {
+      "id": "517",
+      "number": "517",
+      "code": "517",
+      "name": "Team Crests",
+      "country": "Denmark-North Macedonia / Czech Republic-Republic of Ireland",
+      "type": "CORE / Contenders",
+      "typeGroup": "CORE",
+      "searchText": "517 team crests denmark-north macedonia / czech republic-republic of ireland core / contenders"
+    },
+    {
       "id": "521",
       "number": "521",
       "code": "521",
@@ -1054,6 +1954,36 @@
       "type": "CORE / Contender",
       "typeGroup": "CORE",
       "searchText": "525 gianluigi donnarumma italy core / contender"
+    },
+    {
+      "id": "528",
+      "number": "528",
+      "code": "528",
+      "name": "Nicolò Barella",
+      "country": "Italy",
+      "type": "CORE / Contender",
+      "typeGroup": "CORE",
+      "searchText": "528 nicolò barella italy core / contender"
+    },
+    {
+      "id": "529",
+      "number": "529",
+      "code": "529",
+      "name": "Moise Kean",
+      "country": "Italy",
+      "type": "CORE / Contender",
+      "typeGroup": "CORE",
+      "searchText": "529 moise kean italy core / contender"
+    },
+    {
+      "id": "531",
+      "number": "531",
+      "code": "531",
+      "name": "Ethan Pinnock",
+      "country": "Jamaica",
+      "type": "CORE / Contender",
+      "typeGroup": "CORE",
+      "searchText": "531 ethan pinnock jamaica core / contender"
     },
     {
       "id": "532",
@@ -1076,6 +2006,16 @@
       "searchText": "534 shamar nicholson jamaica core / contender"
     },
     {
+      "id": "538",
+      "number": "538",
+      "code": "538",
+      "name": "Sebastian Szymański",
+      "country": "Poland",
+      "type": "CORE / Contender",
+      "typeGroup": "CORE",
+      "searchText": "538 sebastian szymański poland core / contender"
+    },
+    {
       "id": "539",
       "number": "539",
       "code": "539",
@@ -1084,6 +2024,26 @@
       "type": "CORE / Contender",
       "typeGroup": "CORE",
       "searchText": "539 robert lewandowski poland core / contender"
+    },
+    {
+      "id": "541",
+      "number": "541",
+      "code": "541",
+      "name": "Dejan Kulusevski",
+      "country": "Sweden",
+      "type": "CORE / Contender",
+      "typeGroup": "CORE",
+      "searchText": "541 dejan kulusevski sweden core / contender"
+    },
+    {
+      "id": "542",
+      "number": "542",
+      "code": "542",
+      "name": "Anthony Elanga",
+      "country": "Sweden",
+      "type": "CORE / Contender",
+      "typeGroup": "CORE",
+      "searchText": "542 anthony elanga sweden core / contender"
     },
     {
       "id": "548",
@@ -1398,16 +2358,6 @@
       "searchText": "10 rayan aït-nouri algeria special 1 / fan favourite"
     },
     {
-      "id": "14",
-      "number": "14",
-      "code": "14",
-      "name": "Ramy Bensebaini",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "14 ramy bensebaini algeria core / hero"
-    },
-    {
       "id": "15",
       "number": "15",
       "code": "15",
@@ -1426,16 +2376,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "16 aïssa mandi algeria core / hero"
-    },
-    {
-      "id": "17",
-      "number": "17",
-      "code": "17",
-      "name": "Nabil Bentaleb",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "17 nabil bentaleb algeria core / hero"
     },
     {
       "id": "18",
@@ -1518,16 +2458,6 @@
       "searchText": "26 nahuel molina argentina core / hero"
     },
     {
-      "id": "27",
-      "number": "27",
-      "code": "27",
-      "name": "Cristian Romero",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "27 cristian romero argentina core / hero"
-    },
-    {
       "id": "28",
       "number": "28",
       "code": "28",
@@ -1536,16 +2466,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "28 nicolás otamendi argentina core / hero"
-    },
-    {
-      "id": "29",
-      "number": "29",
-      "code": "29",
-      "name": "Enzo Fernández",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "29 enzo fernández argentina core / hero"
     },
     {
       "id": "30",
@@ -1566,16 +2486,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "32 giuliano simeone argentina core / hero"
-    },
-    {
-      "id": "33",
-      "number": "33",
-      "code": "33",
-      "name": "Lautato Martínez",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "33 lautato martínez argentina core / hero"
     },
     {
       "id": "34",
@@ -1608,16 +2518,6 @@
       "searchText": "36 mathew ryan australia special 1 / icon"
     },
     {
-      "id": "37",
-      "number": "37",
-      "code": "37",
-      "name": "Alessandro Circati",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "37 alessandro circati australia core / hero"
-    },
-    {
       "id": "38",
       "number": "38",
       "code": "38",
@@ -1626,16 +2526,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "38 jordan bos australia core / hero"
-    },
-    {
-      "id": "39",
-      "number": "39",
-      "code": "39",
-      "name": "Lewis Miller",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "39 lewis miller australia core / hero"
     },
     {
       "id": "40",
@@ -1656,16 +2546,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "41 jackson irvine australia core / hero"
-    },
-    {
-      "id": "42",
-      "number": "42",
-      "code": "42",
-      "name": "Riley McGree",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "42 riley mcgree australia core / hero"
     },
     {
       "id": "43",
@@ -1718,16 +2598,6 @@
       "searchText": "48 david alaba austria special 1 / icon"
     },
     {
-      "id": "49",
-      "number": "49",
-      "code": "49",
-      "name": "Alexander Schlager",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "49 alexander schlager austria core / hero"
-    },
-    {
       "id": "51",
       "number": "51",
       "code": "51",
@@ -1736,16 +2606,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "51 philipp lienhart austria core / hero"
-    },
-    {
-      "id": "52",
-      "number": "52",
-      "code": "52",
-      "name": "Konrad Laimer",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "52 konrad laimer austria core / hero"
     },
     {
       "id": "54",
@@ -1828,16 +2688,6 @@
       "searchText": "63 timothy castagne belgium core / hero"
     },
     {
-      "id": "64",
-      "number": "64",
-      "code": "64",
-      "name": "Maxim de Cuyper",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "64 maxim de cuyper belgium core / hero"
-    },
-    {
       "id": "66",
       "number": "66",
       "code": "66",
@@ -1896,16 +2746,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "73 alisson brazil core / hero"
-    },
-    {
-      "id": "74",
-      "number": "74",
-      "code": "74",
-      "name": "Danilo",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "74 danilo brazil core / hero"
     },
     {
       "id": "75",
@@ -2038,16 +2878,6 @@
       "searchText": "90 jonathan osorio canada core / hero"
     },
     {
-      "id": "91",
-      "number": "91",
-      "code": "91",
-      "name": "Jacob Shaffelburg",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "91 jacob shaffelburg canada core / hero"
-    },
-    {
       "id": "92",
       "number": "92",
       "code": "92",
@@ -2098,16 +2928,6 @@
       "searchText": "97 logan costa cape verde core / hero"
     },
     {
-      "id": "98",
-      "number": "98",
-      "code": "98",
-      "name": "Pico",
-      "country": "Cape Verde",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "98 pico cape verde core / hero"
-    },
-    {
       "id": "99",
       "number": "99",
       "code": "99",
@@ -2136,26 +2956,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "102 jamiro monteiro cape verde core / hero"
-    },
-    {
-      "id": "103",
-      "number": "103",
-      "code": "103",
-      "name": "Yannick Semedo",
-      "country": "Cape Verde",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "103 yannick semedo cape verde core / hero"
-    },
-    {
-      "id": "104",
-      "number": "104",
-      "code": "104",
-      "name": "Jovane Cabral",
-      "country": "Cape Verde",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "104 jovane cabral cape verde core / hero"
     },
     {
       "id": "105",
@@ -2206,16 +3006,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "112 daniel muñoz colombia core / hero"
-    },
-    {
-      "id": "113",
-      "number": "113",
-      "code": "113",
-      "name": "Jefferson Lerma",
-      "country": "Colombia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "113 jefferson lerma colombia core / hero"
     },
     {
       "id": "114",
@@ -2298,16 +3088,6 @@
       "searchText": "122 duje ćaleta-car croatia core / hero"
     },
     {
-      "id": "124",
-      "number": "124",
-      "code": "124",
-      "name": "Josip Stanišić",
-      "country": "Croatia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "124 josip stanišić croatia core / hero"
-    },
-    {
       "id": "126",
       "number": "126",
       "code": "126",
@@ -2366,16 +3146,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "134 sherel floranus curaçao core / hero"
-    },
-    {
-      "id": "135",
-      "number": "135",
-      "code": "135",
-      "name": "Roshon van Eijma",
-      "country": "Curaçao",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "135 roshon van eijma curaçao core / hero"
     },
     {
       "id": "136",
@@ -2518,16 +3288,6 @@
       "searchText": "151 alan franco ecuador core / hero"
     },
     {
-      "id": "153",
-      "number": "153",
-      "code": "153",
-      "name": "Kevin Rodríguez",
-      "country": "Ecuador",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "153 kevin rodríguez ecuador core / hero"
-    },
-    {
       "id": "154",
       "number": "154",
       "code": "154",
@@ -2588,16 +3348,6 @@
       "searchText": "160 ramy rabia egypt core / hero"
     },
     {
-      "id": "161",
-      "number": "161",
-      "code": "161",
-      "name": "Marwan Attia",
-      "country": "Egypt",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "161 marwan attia egypt core / hero"
-    },
-    {
       "id": "162",
       "number": "162",
       "code": "162",
@@ -2616,16 +3366,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "163 hamdy fathy egypt core / hero"
-    },
-    {
-      "id": "164",
-      "number": "164",
-      "code": "164",
-      "name": "Mostafa Mohamed",
-      "country": "Egypt",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "164 mostafa mohamed egypt core / hero"
     },
     {
       "id": "165",
@@ -2668,16 +3408,6 @@
       "searchText": "168 harry kane england special 1 / icon"
     },
     {
-      "id": "169",
-      "number": "169",
-      "code": "169",
-      "name": "Jordan Pickford",
-      "country": "England",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "169 jordan pickford england core / hero"
-    },
-    {
       "id": "170",
       "number": "170",
       "code": "170",
@@ -2686,16 +3416,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "170 reece james england core / hero"
-    },
-    {
-      "id": "171",
-      "number": "171",
-      "code": "171",
-      "name": "John Stones",
-      "country": "England",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "171 john stones england core / hero"
     },
     {
       "id": "172",
@@ -2716,16 +3436,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "173 jordan henderson england core / hero"
-    },
-    {
-      "id": "174",
-      "number": "174",
-      "code": "174",
-      "name": "Phil Foden",
-      "country": "England",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "174 phil foden england core / hero"
     },
     {
       "id": "176",
@@ -2768,16 +3478,6 @@
       "searchText": "180 kylian mbappé france special 1 / icon"
     },
     {
-      "id": "181",
-      "number": "181",
-      "code": "181",
-      "name": "Mike Maignan",
-      "country": "France",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "181 mike maignan france core / hero"
-    },
-    {
       "id": "182",
       "number": "182",
       "code": "182",
@@ -2788,16 +3488,6 @@
       "searchText": "182 william saliba france core / hero"
     },
     {
-      "id": "183",
-      "number": "183",
-      "code": "183",
-      "name": "Jules Koundé",
-      "country": "France",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "183 jules koundé france core / hero"
-    },
-    {
       "id": "184",
       "number": "184",
       "code": "184",
@@ -2806,16 +3496,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "184 théo hernández france core / hero"
-    },
-    {
-      "id": "185",
-      "number": "185",
-      "code": "185",
-      "name": "Aurélien Tchouaméni",
-      "country": "France",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "185 aurélien tchouaméni france core / hero"
     },
     {
       "id": "186",
@@ -2898,26 +3578,6 @@
       "searchText": "195 jonathan tah germany core / hero"
     },
     {
-      "id": "197",
-      "number": "197",
-      "code": "197",
-      "name": "Leon Goretzka",
-      "country": "Germany",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "197 leon goretzka germany core / hero"
-    },
-    {
-      "id": "198",
-      "number": "198",
-      "code": "198",
-      "name": "Florian Wirtz",
-      "country": "Germany",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "198 florian wirtz germany core / hero"
-    },
-    {
       "id": "199",
       "number": "199",
       "code": "199",
@@ -2926,16 +3586,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "199 serge gnabry germany core / hero"
-    },
-    {
-      "id": "201",
-      "number": "201",
-      "code": "201",
-      "name": "Leroy Sané",
-      "country": "Germany",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "201 leroy sané germany core / hero"
     },
     {
       "id": "202",
@@ -2978,16 +3628,6 @@
       "searchText": "205 lawrence ati zigi ghana core / hero"
     },
     {
-      "id": "206",
-      "number": "206",
-      "code": "206",
-      "name": "Alidu Seidu",
-      "country": "Ghana",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "206 alidu seidu ghana core / hero"
-    },
-    {
       "id": "207",
       "number": "207",
       "code": "207",
@@ -2996,16 +3636,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "207 alexander djiku ghana core / hero"
-    },
-    {
-      "id": "208",
-      "number": "208",
-      "code": "208",
-      "name": "Gideon Mensah",
-      "country": "Ghana",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "208 gideon mensah ghana core / hero"
     },
     {
       "id": "209",
@@ -3078,16 +3708,6 @@
       "searchText": "217 johny placide haiti core / hero"
     },
     {
-      "id": "218",
-      "number": "218",
-      "code": "218",
-      "name": "Ricardo Adé",
-      "country": "Haiti",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "218 ricardo adé haiti core / hero"
-    },
-    {
       "id": "219",
       "number": "219",
       "code": "219",
@@ -3096,16 +3716,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "219 carlens arcus haiti core / hero"
-    },
-    {
-      "id": "220",
-      "number": "220",
-      "code": "220",
-      "name": "Hannes Delcroix",
-      "country": "Haiti",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "220 hannes delcroix haiti core / hero"
     },
     {
       "id": "221",
@@ -3128,16 +3738,6 @@
       "searchText": "222 danley jean jacques haiti core / hero"
     },
     {
-      "id": "223",
-      "number": "223",
-      "code": "223",
-      "name": "Jean-Ricner Bellegarde",
-      "country": "Haiti",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "223 jean-ricner bellegarde haiti core / hero"
-    },
-    {
       "id": "224",
       "number": "224",
       "code": "224",
@@ -3146,16 +3746,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "224 ruben providence haiti core / hero"
-    },
-    {
-      "id": "225",
-      "number": "225",
-      "code": "225",
-      "name": "Don Deedson Louicius",
-      "country": "Haiti",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "225 don deedson louicius haiti core / hero"
     },
     {
       "id": "228",
@@ -3176,36 +3766,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "229 alireza beiranvand iran core / hero"
-    },
-    {
-      "id": "231",
-      "number": "231",
-      "code": "231",
-      "name": "Milad Mohammadi",
-      "country": "Iran",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "231 milad mohammadi iran core / hero"
-    },
-    {
-      "id": "232",
-      "number": "232",
-      "code": "232",
-      "name": "Ramin Rezaeian",
-      "country": "Iran",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "232 ramin rezaeian iran core / hero"
-    },
-    {
-      "id": "233",
-      "number": "233",
-      "code": "233",
-      "name": "Hossein Kanaani",
-      "country": "Iran",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "233 hossein kanaani iran core / hero"
     },
     {
       "id": "234",
@@ -3278,16 +3838,6 @@
       "searchText": "240 sébastien haller ivory coast special 1 / icon"
     },
     {
-      "id": "241",
-      "number": "241",
-      "code": "241",
-      "name": "Yahia Fofana",
-      "country": "Ivory Coast",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "241 yahia fofana ivory coast core / hero"
-    },
-    {
       "id": "242",
       "number": "242",
       "code": "242",
@@ -3296,16 +3846,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "242 ghislain konan ivory coast core / hero"
-    },
-    {
-      "id": "243",
-      "number": "243",
-      "code": "243",
-      "name": "Odilon Kossounou",
-      "country": "Ivory Coast",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "243 odilon kossounou ivory coast core / hero"
     },
     {
       "id": "244",
@@ -3336,16 +3876,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "246 ibrahim sangaré ivory coast core / hero"
-    },
-    {
-      "id": "247",
-      "number": "247",
-      "code": "247",
-      "name": "Nicolas Pépé",
-      "country": "Ivory Coast",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "247 nicolas pépé ivory coast core / hero"
     },
     {
       "id": "249",
@@ -3518,16 +4048,6 @@
       "searchText": "267 yazan al-arab jordan core / hero"
     },
     {
-      "id": "268",
-      "number": "268",
-      "code": "268",
-      "name": "Abdallah Nasib",
-      "country": "Jordan",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "268 abdallah nasib jordan core / hero"
-    },
-    {
       "id": "269",
       "number": "269",
       "code": "269",
@@ -3536,16 +4056,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "269 ibrahim saadeh jordan core / hero"
-    },
-    {
-      "id": "270",
-      "number": "270",
-      "code": "270",
-      "name": "Nizar Al-Rashdan",
-      "country": "Jordan",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "270 nizar al-rashdan jordan core / hero"
     },
     {
       "id": "271",
@@ -3618,26 +4128,6 @@
       "searchText": "278 young-woo seol korea republic core / hero"
     },
     {
-      "id": "279",
-      "number": "279",
-      "code": "279",
-      "name": "Yu-min Cho",
-      "country": "Korea Republic",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "279 yu-min cho korea republic core / hero"
-    },
-    {
-      "id": "280",
-      "number": "280",
-      "code": "280",
-      "name": "Tae-seok Lee",
-      "country": "Korea Republic",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "280 tae-seok lee korea republic core / hero"
-    },
-    {
       "id": "282",
       "number": "282",
       "code": "282",
@@ -3656,16 +4146,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "283 kang-in lee korea republic core / hero"
-    },
-    {
-      "id": "284",
-      "number": "284",
-      "code": "284",
-      "name": "Hyeon-gyu Oh",
-      "country": "Korea Republic",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "284 hyeon-gyu oh korea republic core / hero"
     },
     {
       "id": "285",
@@ -3718,16 +4198,6 @@
       "searchText": "289 luis malagón mexico core / hero"
     },
     {
-      "id": "290",
-      "number": "290",
-      "code": "290",
-      "name": "Israel Reyes",
-      "country": "Mexico",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "290 israel reyes mexico core / hero"
-    },
-    {
       "id": "292",
       "number": "292",
       "code": "292",
@@ -3746,26 +4216,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "293 jésus gallardo mexico core / hero"
-    },
-    {
-      "id": "294",
-      "number": "294",
-      "code": "294",
-      "name": "Carlos Rodríguez",
-      "country": "Mexico",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "294 carlos rodríguez mexico core / hero"
-    },
-    {
-      "id": "295",
-      "number": "295",
-      "code": "295",
-      "name": "Orbelín Pineda",
-      "country": "Mexico",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "295 orbelín pineda mexico core / hero"
     },
     {
       "id": "297",
@@ -3858,16 +4308,6 @@
       "searchText": "312 virgil van dijk netherlands special 1 / icon"
     },
     {
-      "id": "313",
-      "number": "313",
-      "code": "313",
-      "name": "Bart Verbruggen",
-      "country": "Netherlands",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "313 bart verbruggen netherlands core / hero"
-    },
-    {
       "id": "314",
       "number": "314",
       "code": "314",
@@ -3876,16 +4316,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "314 nathan aké netherlands core / hero"
-    },
-    {
-      "id": "315",
-      "number": "315",
-      "code": "315",
-      "name": "Jeremie Frimpong",
-      "country": "Netherlands",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "315 jeremie frimpong netherlands core / hero"
     },
     {
       "id": "317",
@@ -3918,16 +4348,6 @@
       "searchText": "320 donyell malen netherlands core / hero"
     },
     {
-      "id": "321",
-      "number": "321",
-      "code": "321",
-      "name": "Wout Weghorst",
-      "country": "Netherlands",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "321 wout weghorst netherlands core / hero"
-    },
-    {
       "id": "322",
       "number": "322",
       "code": "322",
@@ -3956,16 +4376,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "325 max crocombe new zealand core / hero"
-    },
-    {
-      "id": "326",
-      "number": "326",
-      "code": "326",
-      "name": "Michel Boxall",
-      "country": "New Zealand",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "326 michel boxall new zealand core / hero"
     },
     {
       "id": "327",
@@ -3998,16 +4408,6 @@
       "searchText": "329 finn surman new zealand core / hero"
     },
     {
-      "id": "330",
-      "number": "330",
-      "code": "330",
-      "name": "Joe Bell",
-      "country": "New Zealand",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "330 joe bell new zealand core / hero"
-    },
-    {
       "id": "332",
       "number": "332",
       "code": "332",
@@ -4016,16 +4416,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "332 matt garbett new zealand core / hero"
-    },
-    {
-      "id": "333",
-      "number": "333",
-      "code": "333",
-      "name": "Elijah Just",
-      "country": "New Zealand",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "333 elijah just new zealand core / hero"
     },
     {
       "id": "334",
@@ -4128,16 +4518,6 @@
       "searchText": "350 andrés andrade panama core / hero"
     },
     {
-      "id": "351",
-      "number": "351",
-      "code": "351",
-      "name": "Fidel Escobar",
-      "country": "Panama",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "351 fidel escobar panama core / hero"
-    },
-    {
       "id": "352",
       "number": "352",
       "code": "352",
@@ -4158,16 +4538,6 @@
       "searchText": "353 adalberto carrasquilla panama core / hero"
     },
     {
-      "id": "354",
-      "number": "354",
-      "code": "354",
-      "name": "Édgar Bárcenas",
-      "country": "Panama",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "354 édgar bárcenas panama core / hero"
-    },
-    {
       "id": "355",
       "number": "355",
       "code": "355",
@@ -4186,16 +4556,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "356 ismael díaz panama core / hero"
-    },
-    {
-      "id": "357",
-      "number": "357",
-      "code": "357",
-      "name": "José Luiz Rodríguez",
-      "country": "Panama",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "357 josé luiz rodríguez panama core / hero"
     },
     {
       "id": "358",
@@ -4258,26 +4618,6 @@
       "searchText": "365 andrés cubas paraguay core / hero"
     },
     {
-      "id": "367",
-      "number": "367",
-      "code": "367",
-      "name": "Julio Enciso",
-      "country": "Paraguay",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "367 julio enciso paraguay core / hero"
-    },
-    {
-      "id": "368",
-      "number": "368",
-      "code": "368",
-      "name": "Ramón Sosa",
-      "country": "Paraguay",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "368 ramón sosa paraguay core / hero"
-    },
-    {
       "id": "369",
       "number": "369",
       "code": "369",
@@ -4316,16 +4656,6 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "372 cristiano ronaldo portugal special 1 / icon"
-    },
-    {
-      "id": "373",
-      "number": "373",
-      "code": "373",
-      "name": "Diogo Costa",
-      "country": "Portugal",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "373 diogo costa portugal core / hero"
     },
     {
       "id": "374",
@@ -4386,16 +4716,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "379 francisco conceição portugal core / hero"
-    },
-    {
-      "id": "380",
-      "number": "380",
-      "code": "380",
-      "name": "Pedro Neto",
-      "country": "Portugal",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "380 pedro neto portugal core / hero"
     },
     {
       "id": "381",
@@ -4478,16 +4798,6 @@
       "searchText": "388 pedro miguel qatar core / hero"
     },
     {
-      "id": "389",
-      "number": "389",
-      "code": "389",
-      "name": "Homam Al-Amin",
-      "country": "Qatar",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "389 homam al-amin qatar core / hero"
-    },
-    {
       "id": "390",
       "number": "390",
       "code": "390",
@@ -4496,16 +4806,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "390 ahmed fathi qatar core / hero"
-    },
-    {
-      "id": "391",
-      "number": "391",
-      "code": "391",
-      "name": "Edmílson Junior",
-      "country": "Qatar",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "391 edmílson junior qatar core / hero"
     },
     {
       "id": "393",
@@ -4558,26 +4858,6 @@
       "searchText": "399 jehad thikri saudi arabia core / hero"
     },
     {
-      "id": "400",
-      "number": "400",
-      "code": "400",
-      "name": "Saud Abdulhamid",
-      "country": "Saudi Arabia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "400 saud abdulhamid saudi arabia core / hero"
-    },
-    {
-      "id": "401",
-      "number": "401",
-      "code": "401",
-      "name": "Nasser Aldawsari",
-      "country": "Saudi Arabia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "401 nasser aldawsari saudi arabia core / hero"
-    },
-    {
       "id": "402",
       "number": "402",
       "code": "402",
@@ -4628,16 +4908,6 @@
       "searchText": "408 andrew robertson scotland special 1 / icon"
     },
     {
-      "id": "409",
-      "number": "409",
-      "code": "409",
-      "name": "Angus Gunn",
-      "country": "Scotland",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "409 angus gunn scotland core / hero"
-    },
-    {
       "id": "410",
       "number": "410",
       "code": "410",
@@ -4646,16 +4916,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "410 kieran tierney scotland core / hero"
-    },
-    {
-      "id": "411",
-      "number": "411",
-      "code": "411",
-      "name": "Grant Hanley",
-      "country": "Scotland",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "411 grant hanley scotland core / hero"
     },
     {
       "id": "412",
@@ -4698,16 +4958,6 @@
       "searchText": "415 john mcginn scotland core / hero"
     },
     {
-      "id": "417",
-      "number": "417",
-      "code": "417",
-      "name": "Ché Adams",
-      "country": "Scotland",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "417 ché adams scotland core / hero"
-    },
-    {
       "id": "418",
       "number": "418",
       "code": "418",
@@ -4726,26 +4976,6 @@
       "type": "SPECIAL 2 / Team Crest",
       "typeGroup": "SPECIAL 2",
       "searchText": "419 team crest senegal special 2 / team crest"
-    },
-    {
-      "id": "421",
-      "number": "421",
-      "code": "421",
-      "name": "Edouard Mendy",
-      "country": "Senegal",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "421 edouard mendy senegal core / hero"
-    },
-    {
-      "id": "422",
-      "number": "422",
-      "code": "422",
-      "name": "Moussa Niakhaté",
-      "country": "Senegal",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "422 moussa niakhaté senegal core / hero"
     },
     {
       "id": "425",
@@ -4788,26 +5018,6 @@
       "searchText": "428 ismaïla sarr senegal core / hero"
     },
     {
-      "id": "434",
-      "number": "434",
-      "code": "434",
-      "name": "Aubrey Modiba",
-      "country": "South Africa",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "434 aubrey modiba south africa core / hero"
-    },
-    {
-      "id": "435",
-      "number": "435",
-      "code": "435",
-      "name": "Mbekezeli Mbokazi",
-      "country": "South Africa",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "435 mbekezeli mbokazi south africa core / hero"
-    },
-    {
       "id": "436",
       "number": "436",
       "code": "436",
@@ -4828,16 +5038,6 @@
       "searchText": "437 tenoho mokoena south africa core / hero"
     },
     {
-      "id": "438",
-      "number": "438",
-      "code": "438",
-      "name": "Yaya Sithole",
-      "country": "South Africa",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "438 yaya sithole south africa core / hero"
-    },
-    {
       "id": "439",
       "number": "439",
       "code": "439",
@@ -4846,16 +5046,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "439 themba zwane south africa core / hero"
-    },
-    {
-      "id": "440",
-      "number": "440",
-      "code": "440",
-      "name": "Oswin Appollis",
-      "country": "South Africa",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "440 oswin appollis south africa core / hero"
     },
     {
       "id": "441",
@@ -4888,16 +5078,6 @@
       "searchText": "444 rodri spain special 1 / icon"
     },
     {
-      "id": "445",
-      "number": "445",
-      "code": "445",
-      "name": "Unai Simón",
-      "country": "Spain",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "445 unai simón spain core / hero"
-    },
-    {
       "id": "446",
       "number": "446",
       "code": "446",
@@ -4928,16 +5108,6 @@
       "searchText": "449 martín zubimendi spain core / hero"
     },
     {
-      "id": "450",
-      "number": "450",
-      "code": "450",
-      "name": "Pedri",
-      "country": "Spain",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "450 pedri spain core / hero"
-    },
-    {
       "id": "451",
       "number": "451",
       "code": "451",
@@ -4946,16 +5116,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "451 fabián ruiz spain core / hero"
-    },
-    {
-      "id": "452",
-      "number": "452",
-      "code": "452",
-      "name": "Nico Williams",
-      "country": "Spain",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "452 nico williams spain core / hero"
     },
     {
       "id": "453",
@@ -5088,16 +5248,6 @@
       "searchText": "470 montassar talbi tunisia core / hero"
     },
     {
-      "id": "471",
-      "number": "471",
-      "code": "471",
-      "name": "Yassine Meriah",
-      "country": "Tunisia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "471 yassine meriah tunisia core / hero"
-    },
-    {
       "id": "472",
       "number": "472",
       "code": "472",
@@ -5138,16 +5288,6 @@
       "searchText": "475 naïm sliti tunisia core / hero"
     },
     {
-      "id": "476",
-      "number": "476",
-      "code": "476",
-      "name": "Elias Achouri",
-      "country": "Tunisia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "476 elias achouri tunisia core / hero"
-    },
-    {
       "id": "477",
       "number": "477",
       "code": "477",
@@ -5176,16 +5316,6 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "480 christian pulisic united states special 1 / icon"
-    },
-    {
-      "id": "481",
-      "number": "481",
-      "code": "481",
-      "name": "Matt Freese",
-      "country": "United States",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "481 matt freese united states core / hero"
     },
     {
       "id": "482",
@@ -5228,16 +5358,6 @@
       "searchText": "485 tanner tessmann united states core / hero"
     },
     {
-      "id": "488",
-      "number": "488",
-      "code": "488",
-      "name": "Malik Tillman",
-      "country": "United States",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "488 malik tillman united states core / hero"
-    },
-    {
       "id": "491",
       "number": "491",
       "code": "491",
@@ -5276,36 +5396,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "494 ronald araújo uruguay core / hero"
-    },
-    {
-      "id": "495",
-      "number": "495",
-      "code": "495",
-      "name": "Sebastián Cáceres",
-      "country": "Uruguay",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "495 sebastián cáceres uruguay core / hero"
-    },
-    {
-      "id": "498",
-      "number": "498",
-      "code": "498",
-      "name": "Rodrigo Bentancur",
-      "country": "Uruguay",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "498 rodrigo bentancur uruguay core / hero"
-    },
-    {
-      "id": "499",
-      "number": "499",
-      "code": "499",
-      "name": "Manuel Ugarte",
-      "country": "Uruguay",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "499 manuel ugarte uruguay core / hero"
     },
     {
       "id": "500",
@@ -5408,16 +5498,6 @@
       "searchText": "511 odiljon hamrobekov uzbekistan core / hero"
     },
     {
-      "id": "513",
-      "number": "513",
-      "code": "513",
-      "name": "Abbosbek Fayzullaev",
-      "country": "Uzbekistan",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "513 abbosbek fayzullaev uzbekistan core / hero"
-    },
-    {
       "id": "514",
       "number": "514",
       "code": "514",
@@ -5428,16 +5508,6 @@
       "searchText": "514 team crests italy-northern ireland / wales-bosnia & herzegovina core / contenders"
     },
     {
-      "id": "515",
-      "number": "515",
-      "code": "515",
-      "name": "Team Crests",
-      "country": "Ukraine-Sweden / Poland-Albania",
-      "type": "CORE / Contenders",
-      "typeGroup": "CORE",
-      "searchText": "515 team crests ukraine-sweden / poland-albania core / contenders"
-    },
-    {
       "id": "516",
       "number": "516",
       "code": "516",
@@ -5446,16 +5516,6 @@
       "type": "CORE / Contenders",
       "typeGroup": "CORE",
       "searchText": "516 team crests turkey-romania / slovakia-kosovo core / contenders"
-    },
-    {
-      "id": "517",
-      "number": "517",
-      "code": "517",
-      "name": "Team Crests",
-      "country": "Denmark-North Macedonia / Czech Republic-Republic of Ireland",
-      "type": "CORE / Contenders",
-      "typeGroup": "CORE",
-      "searchText": "517 team crests denmark-north macedonia / czech republic-republic of ireland core / contenders"
     },
     {
       "id": "518",
@@ -5538,26 +5598,6 @@
       "searchText": "527 sandro tonali italy core / contender"
     },
     {
-      "id": "528",
-      "number": "528",
-      "code": "528",
-      "name": "Nicolò Barella",
-      "country": "Italy",
-      "type": "CORE / Contender",
-      "typeGroup": "CORE",
-      "searchText": "528 nicolò barella italy core / contender"
-    },
-    {
-      "id": "529",
-      "number": "529",
-      "code": "529",
-      "name": "Moise Kean",
-      "country": "Italy",
-      "type": "CORE / Contender",
-      "typeGroup": "CORE",
-      "searchText": "529 moise kean italy core / contender"
-    },
-    {
       "id": "530",
       "number": "530",
       "code": "530",
@@ -5566,16 +5606,6 @@
       "type": "CORE / Contender",
       "typeGroup": "CORE",
       "searchText": "530 andre blake jamaica core / contender"
-    },
-    {
-      "id": "531",
-      "number": "531",
-      "code": "531",
-      "name": "Ethan Pinnock",
-      "country": "Jamaica",
-      "type": "CORE / Contender",
-      "typeGroup": "CORE",
-      "searchText": "531 ethan pinnock jamaica core / contender"
     },
     {
       "id": "533",
@@ -5618,16 +5648,6 @@
       "searchText": "537 piotr zieliński poland core / contender"
     },
     {
-      "id": "538",
-      "number": "538",
-      "code": "538",
-      "name": "Sebastian Szymański",
-      "country": "Poland",
-      "type": "CORE / Contender",
-      "typeGroup": "CORE",
-      "searchText": "538 sebastian szymański poland core / contender"
-    },
-    {
       "id": "540",
       "number": "540",
       "code": "540",
@@ -5636,26 +5656,6 @@
       "type": "CORE / Contender",
       "typeGroup": "CORE",
       "searchText": "540 isak hien sweden core / contender"
-    },
-    {
-      "id": "541",
-      "number": "541",
-      "code": "541",
-      "name": "Dejan Kulusevski",
-      "country": "Sweden",
-      "type": "CORE / Contender",
-      "typeGroup": "CORE",
-      "searchText": "541 dejan kulusevski sweden core / contender"
-    },
-    {
-      "id": "542",
-      "number": "542",
-      "code": "542",
-      "name": "Anthony Elanga",
-      "country": "Sweden",
-      "type": "CORE / Contender",
-      "typeGroup": "CORE",
-      "searchText": "542 anthony elanga sweden core / contender"
     },
     {
       "id": "543",
