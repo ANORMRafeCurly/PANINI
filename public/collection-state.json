@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-07T15:54:22.162Z",
+  "generatedAt": "2026-05-07T15:59:30.682Z",
   "total": 913,
-  "ownedCount": 123,
-  "missingCount": 790,
-  "duplicatesTotal": 14,
+  "ownedCount": 124,
+  "missingCount": 789,
+  "duplicatesTotal": 12,
   "owned": [
     {
       "id": "1",
@@ -544,6 +544,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "318 ryan gravenberch netherlands core / hero"
+    },
+    {
+      "id": "323",
+      "number": "323",
+      "code": "323",
+      "name": "Team Crest",
+      "country": "New Zealand",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "323 team crest new zealand special 2 / team crest"
     },
     {
       "id": "337",
@@ -3916,16 +3926,6 @@
       "type": "SPECIAL 1 / Fan Favourite",
       "typeGroup": "SPECIAL 1",
       "searchText": "322 marco stamenic new zealand special 1 / fan favourite"
-    },
-    {
-      "id": "323",
-      "number": "323",
-      "code": "323",
-      "name": "Team Crest",
-      "country": "New Zealand",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "323 team crest new zealand special 2 / team crest"
     },
     {
       "id": "324",
@@ -9147,7 +9147,6 @@
     "342": 1,
     "366": 1,
     "397": 1,
-    "431": 2,
     "433": 1,
     "539": 1
   }
