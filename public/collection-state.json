@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-07T15:44:24.740Z",
+  "generatedAt": "2026-05-07T15:53:10.697Z",
   "total": 913,
-  "ownedCount": 120,
-  "missingCount": 793,
+  "ownedCount": 121,
+  "missingCount": 792,
   "duplicatesTotal": 12,
   "owned": [
     {
@@ -734,6 +734,16 @@
       "type": "SPECIAL 1 / Fan Favourite",
       "typeGroup": "SPECIAL 1",
       "searchText": "430 lyle foster south africa special 1 / fan favourite"
+    },
+    {
+      "id": "431",
+      "number": "431",
+      "code": "431",
+      "name": "Team Crest",
+      "country": "South Africa",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "431 team crest south africa special 2 / team crest"
     },
     {
       "id": "432",
@@ -4776,16 +4786,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "428 ismaïla sarr senegal core / hero"
-    },
-    {
-      "id": "431",
-      "number": "431",
-      "code": "431",
-      "name": "Team Crest",
-      "country": "South Africa",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "431 team crest south africa special 2 / team crest"
     },
     {
       "id": "434",
