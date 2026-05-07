@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-07T15:35:21.466Z",
+  "generatedAt": "2026-05-07T15:44:24.740Z",
   "total": 913,
-  "ownedCount": 102,
-  "missingCount": 811,
+  "ownedCount": 120,
+  "missingCount": 793,
   "duplicatesTotal": 12,
   "owned": [
     {
@@ -14,6 +14,16 @@
       "type": "RARE / Golden Baller",
       "typeGroup": "RARE",
       "searchText": "1 lionel messi argentina rare / golden baller"
+    },
+    {
+      "id": "3",
+      "number": "3",
+      "code": "3",
+      "name": "Mohamed Salah",
+      "country": "Egypt",
+      "type": "RARE / Golden Baller",
+      "typeGroup": "RARE",
+      "searchText": "3 mohamed salah egypt rare / golden baller"
     },
     {
       "id": "11",
@@ -156,6 +166,16 @@
       "searchText": "80 matheus cunha brazil core / hero"
     },
     {
+      "id": "84",
+      "number": "84",
+      "code": "84",
+      "name": "Alphonso Davies",
+      "country": "Canada",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "84 alphonso davies canada special 1 / icon"
+    },
+    {
       "id": "88",
       "number": "88",
       "code": "88",
@@ -176,6 +196,16 @@
       "searchText": "100 joão paulo cape verde core / hero"
     },
     {
+      "id": "108",
+      "number": "108",
+      "code": "108",
+      "name": "James Rodríguez",
+      "country": "Colombia",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "108 james rodríguez colombia special 1 / icon"
+    },
+    {
       "id": "111",
       "number": "111",
       "code": "111",
@@ -184,6 +214,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "111 yerry mina colombia core / hero"
+    },
+    {
+      "id": "120",
+      "number": "120",
+      "code": "120",
+      "name": "Luka Modrić",
+      "country": "Croatia",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "120 luka modrić croatia special 1 / icon"
     },
     {
       "id": "123",
@@ -214,6 +254,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "129 andrej kramarić croatia core / hero"
+    },
+    {
+      "id": "132",
+      "number": "132",
+      "code": "132",
+      "name": "Leandro Bacuna",
+      "country": "Curaçao",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "132 leandro bacuna curaçao special 1 / icon"
     },
     {
       "id": "133",
@@ -526,6 +576,16 @@
       "searchText": "344 oscar bobb norway core / hero"
     },
     {
+      "id": "346",
+      "number": "346",
+      "code": "346",
+      "name": "Michel Amir Murillo",
+      "country": "Panama",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "346 michel amir murillo panama special 1 / fan favourite"
+    },
+    {
       "id": "349",
       "number": "349",
       "code": "349",
@@ -626,6 +686,16 @@
       "searchText": "416 ben gannon-doak scotland core / hero"
     },
     {
+      "id": "420",
+      "number": "420",
+      "code": "420",
+      "name": "Sadio Mané",
+      "country": "Senegal",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "420 sadio mané senegal special 1 / icon"
+    },
+    {
       "id": "423",
       "number": "423",
       "code": "423",
@@ -654,6 +724,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "429 nicolas jackson senegal core / hero"
+    },
+    {
+      "id": "430",
+      "number": "430",
+      "code": "430",
+      "name": "Lyle Foster",
+      "country": "South Africa",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "430 lyle foster south africa special 1 / fan favourite"
     },
     {
       "id": "432",
@@ -786,6 +866,16 @@
       "searchText": "489 folarin balogun united states core / hero"
     },
     {
+      "id": "490",
+      "number": "490",
+      "code": "490",
+      "name": "José María Giménez",
+      "country": "Uruguay",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "490 josé maría giménez uruguay special 1 / fan favourite"
+    },
+    {
       "id": "496",
       "number": "496",
       "code": "496",
@@ -896,6 +986,16 @@
       "searchText": "548 kenan yildiz turkey core / contender"
     },
     {
+      "id": "553",
+      "number": "553",
+      "code": "553",
+      "name": "Mike Maignan",
+      "country": "France",
+      "type": "SPECIAL 2 / Top Keeper",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "553 mike maignan france special 2 / top keeper"
+    },
+    {
       "id": "556",
       "number": "556",
       "code": "556",
@@ -906,6 +1006,26 @@
       "searchText": "556 diogo costa portugal special 2 / top keeper"
     },
     {
+      "id": "560",
+      "number": "560",
+      "code": "560",
+      "name": "Alphonso Davies",
+      "country": "Canada",
+      "type": "SPECIAL 2 / Defensive Rock",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "560 alphonso davies canada special 2 / defensive rock"
+    },
+    {
+      "id": "561",
+      "number": "561",
+      "code": "561",
+      "name": "William Saliba",
+      "country": "France",
+      "type": "SPECIAL 2 / Defensive Rock",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "561 william saliba france special 2 / defensive rock"
+    },
+    {
       "id": "562",
       "number": "562",
       "code": "562",
@@ -914,6 +1034,36 @@
       "type": "SPECIAL 2 / Defensive Rock",
       "typeGroup": "SPECIAL 2",
       "searchText": "562 antonio rüdiger germany special 2 / defensive rock"
+    },
+    {
+      "id": "565",
+      "number": "565",
+      "code": "565",
+      "name": "Virgil van Dijk",
+      "country": "Netherlands",
+      "type": "SPECIAL 2 / Defensive Rock",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "565 virgil van dijk netherlands special 2 / defensive rock"
+    },
+    {
+      "id": "566",
+      "number": "566",
+      "code": "566",
+      "name": "Nuno Mendes",
+      "country": "Portugal",
+      "type": "SPECIAL 2 / Defensive Rock",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "566 nuno mendes portugal special 2 / defensive rock"
+    },
+    {
+      "id": "570",
+      "number": "570",
+      "code": "570",
+      "name": "Casemiro",
+      "country": "Brazil",
+      "type": "SPECIAL 2 / Midfield Maestro",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "570 casemiro brazil special 2 / midfield maestro"
     },
     {
       "id": "572",
@@ -934,6 +1084,16 @@
       "type": "SPECIAL 2 / Midfield Maestro",
       "typeGroup": "SPECIAL 2",
       "searchText": "576 sofyan amrabat marocco special 2 / midfield maestro"
+    },
+    {
+      "id": "577",
+      "number": "577",
+      "code": "577",
+      "name": "Tijjani Reijnders",
+      "country": "Netherlands",
+      "type": "SPECIAL 2 / Midfield Maestro",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "577 tijjani reijnders netherlands special 2 / midfield maestro"
     },
     {
       "id": "581",
@@ -964,6 +1124,26 @@
       "type": "SPECIAL 2 / Goal Machine",
       "typeGroup": "SPECIAL 2",
       "searchText": "589 jonathan david canada special 2 / goal machine"
+    },
+    {
+      "id": "597",
+      "number": "597",
+      "code": "597",
+      "name": "Sebastien Haller",
+      "country": "Ivory Coast",
+      "type": "SPECIAL 2 / Goal Machine",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "597 sebastien haller ivory coast special 2 / goal machine"
+    },
+    {
+      "id": "604",
+      "number": "604",
+      "code": "604",
+      "name": "Mikel Oyarzabal",
+      "country": "Spain",
+      "type": "SPECIAL 2 / Goal Machine",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "604 mikel oyarzabal spain special 2 / goal machine"
     },
     {
       "id": "605",
@@ -1036,16 +1216,6 @@
       "type": "RARE / Golden Baller",
       "typeGroup": "RARE",
       "searchText": "2 vinícius júnior brazil rare / golden baller"
-    },
-    {
-      "id": "3",
-      "number": "3",
-      "code": "3",
-      "name": "Mohamed Salah",
-      "country": "Egypt",
-      "type": "RARE / Golden Baller",
-      "typeGroup": "RARE",
-      "searchText": "3 mohamed salah egypt rare / golden baller"
     },
     {
       "id": "4",
@@ -1708,16 +1878,6 @@
       "searchText": "83 team crest canada special 2 / team crest"
     },
     {
-      "id": "84",
-      "number": "84",
-      "code": "84",
-      "name": "Alphonso Davies",
-      "country": "Canada",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "84 alphonso davies canada special 1 / icon"
-    },
-    {
       "id": "85",
       "number": "85",
       "code": "85",
@@ -1928,16 +2088,6 @@
       "searchText": "107 team crest colombia special 2 / team crest"
     },
     {
-      "id": "108",
-      "number": "108",
-      "code": "108",
-      "name": "James Rodríguez",
-      "country": "Colombia",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "108 james rodríguez colombia special 1 / icon"
-    },
-    {
       "id": "109",
       "number": "109",
       "code": "109",
@@ -2038,16 +2188,6 @@
       "searchText": "119 team crest croatia special 2 / team crest"
     },
     {
-      "id": "120",
-      "number": "120",
-      "code": "120",
-      "name": "Luka Modrić",
-      "country": "Croatia",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "120 luka modrić croatia special 1 / icon"
-    },
-    {
       "id": "121",
       "number": "121",
       "code": "121",
@@ -2126,16 +2266,6 @@
       "type": "SPECIAL 2 / Team Crest",
       "typeGroup": "SPECIAL 2",
       "searchText": "131 team crest curaçao special 2 / team crest"
-    },
-    {
-      "id": "132",
-      "number": "132",
-      "code": "132",
-      "name": "Leandro Bacuna",
-      "country": "Curaçao",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "132 leandro bacuna curaçao special 1 / icon"
     },
     {
       "id": "134",
@@ -3958,16 +4088,6 @@
       "searchText": "345 alexander sørloth norway core / hero"
     },
     {
-      "id": "346",
-      "number": "346",
-      "code": "346",
-      "name": "Michel Amir Murillo",
-      "country": "Panama",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "346 michel amir murillo panama special 1 / fan favourite"
-    },
-    {
       "id": "347",
       "number": "347",
       "code": "347",
@@ -4598,16 +4718,6 @@
       "searchText": "419 team crest senegal special 2 / team crest"
     },
     {
-      "id": "420",
-      "number": "420",
-      "code": "420",
-      "name": "Sadio Mané",
-      "country": "Senegal",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "420 sadio mané senegal special 1 / icon"
-    },
-    {
       "id": "421",
       "number": "421",
       "code": "421",
@@ -4666,16 +4776,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "428 ismaïla sarr senegal core / hero"
-    },
-    {
-      "id": "430",
-      "number": "430",
-      "code": "430",
-      "name": "Lyle Foster",
-      "country": "South Africa",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "430 lyle foster south africa special 1 / fan favourite"
     },
     {
       "id": "431",
@@ -5136,16 +5236,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "488 malik tillman united states core / hero"
-    },
-    {
-      "id": "490",
-      "number": "490",
-      "code": "490",
-      "name": "José María Giménez",
-      "country": "Uruguay",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "490 josé maría giménez uruguay special 1 / fan favourite"
     },
     {
       "id": "491",
@@ -5658,16 +5748,6 @@
       "searchText": "552 alisson brazil special 2 / top keeper"
     },
     {
-      "id": "553",
-      "number": "553",
-      "code": "553",
-      "name": "Mike Maignan",
-      "country": "France",
-      "type": "SPECIAL 2 / Top Keeper",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "553 mike maignan france special 2 / top keeper"
-    },
-    {
       "id": "554",
       "number": "554",
       "code": "554",
@@ -5718,26 +5798,6 @@
       "searchText": "559 éder miliatão brazil special 2 / defensive rock"
     },
     {
-      "id": "560",
-      "number": "560",
-      "code": "560",
-      "name": "Alphonso Davies",
-      "country": "Canada",
-      "type": "SPECIAL 2 / Defensive Rock",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "560 alphonso davies canada special 2 / defensive rock"
-    },
-    {
-      "id": "561",
-      "number": "561",
-      "code": "561",
-      "name": "William Saliba",
-      "country": "France",
-      "type": "SPECIAL 2 / Defensive Rock",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "561 william saliba france special 2 / defensive rock"
-    },
-    {
       "id": "563",
       "number": "563",
       "code": "563",
@@ -5756,26 +5816,6 @@
       "type": "SPECIAL 2 / Defensive Rock",
       "typeGroup": "SPECIAL 2",
       "searchText": "564 achraf hakimi marocco special 2 / defensive rock"
-    },
-    {
-      "id": "565",
-      "number": "565",
-      "code": "565",
-      "name": "Virgil van Dijk",
-      "country": "Netherlands",
-      "type": "SPECIAL 2 / Defensive Rock",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "565 virgil van dijk netherlands special 2 / defensive rock"
-    },
-    {
-      "id": "566",
-      "number": "566",
-      "code": "566",
-      "name": "Nuno Mendes",
-      "country": "Portugal",
-      "type": "SPECIAL 2 / Defensive Rock",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "566 nuno mendes portugal special 2 / defensive rock"
     },
     {
       "id": "567",
@@ -5806,16 +5846,6 @@
       "type": "SPECIAL 2 / Midfield Maestro",
       "typeGroup": "SPECIAL 2",
       "searchText": "569 kevin de bruyne belgium special 2 / midfield maestro"
-    },
-    {
-      "id": "570",
-      "number": "570",
-      "code": "570",
-      "name": "Casemiro",
-      "country": "Brazil",
-      "type": "SPECIAL 2 / Midfield Maestro",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "570 casemiro brazil special 2 / midfield maestro"
     },
     {
       "id": "571",
@@ -5856,16 +5886,6 @@
       "type": "SPECIAL 2 / Midfield Maestro",
       "typeGroup": "SPECIAL 2",
       "searchText": "575 florian wirtz germany special 2 / midfield maestro"
-    },
-    {
-      "id": "577",
-      "number": "577",
-      "code": "577",
-      "name": "Tijjani Reijnders",
-      "country": "Netherlands",
-      "type": "SPECIAL 2 / Midfield Maestro",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "577 tijjani reijnders netherlands special 2 / midfield maestro"
     },
     {
       "id": "578",
@@ -6028,16 +6048,6 @@
       "searchText": "596 kai havertz germany special 2 / goal machine"
     },
     {
-      "id": "597",
-      "number": "597",
-      "code": "597",
-      "name": "Sebastien Haller",
-      "country": "Ivory Coast",
-      "type": "SPECIAL 2 / Goal Machine",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "597 sebastien haller ivory coast special 2 / goal machine"
-    },
-    {
       "id": "598",
       "number": "598",
       "code": "598",
@@ -6096,16 +6106,6 @@
       "type": "SPECIAL 2 / Goal Machine",
       "typeGroup": "SPECIAL 2",
       "searchText": "603 nicolas jackson senegal special 2 / goal machine"
-    },
-    {
-      "id": "604",
-      "number": "604",
-      "code": "604",
-      "name": "Mikel Oyarzabal",
-      "country": "Spain",
-      "type": "SPECIAL 2 / Goal Machine",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "604 mikel oyarzabal spain special 2 / goal machine"
     },
     {
       "id": "606",
