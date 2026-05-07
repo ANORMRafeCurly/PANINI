@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T16:33:13.367Z",
+  "generatedAt": "2026-05-07T15:35:21.466Z",
   "total": 913,
   "ownedCount": 102,
   "missingCount": 811,
@@ -16,16 +16,6 @@
       "searchText": "1 lionel messi argentina rare / golden baller"
     },
     {
-      "id": "100",
-      "number": "100",
-      "code": "100",
-      "name": "João Paulo",
-      "country": "Cape Verde",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "100 joão paulo cape verde core / hero"
-    },
-    {
       "id": "11",
       "number": "11",
       "code": "11",
@@ -36,16 +26,6 @@
       "searchText": "11 team crest algeria special 2 / team crest"
     },
     {
-      "id": "111",
-      "number": "111",
-      "code": "111",
-      "name": "Yerry Mina",
-      "country": "Colombia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "111 yerry mina colombia core / hero"
-    },
-    {
       "id": "12",
       "number": "12",
       "code": "12",
@@ -54,6 +34,156 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "12 riyad mahrez algeria special 1 / icon"
+    },
+    {
+      "id": "13",
+      "number": "13",
+      "code": "13",
+      "name": "Alexis Guendouz",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "13 alexis guendouz algeria core / hero"
+    },
+    {
+      "id": "24",
+      "number": "24",
+      "code": "24",
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "24 lionel messi argentina special 1 / icon"
+    },
+    {
+      "id": "31",
+      "number": "31",
+      "code": "31",
+      "name": "Rodrigo De Paul",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "31 rodrigo de paul argentina core / hero"
+    },
+    {
+      "id": "45",
+      "number": "45",
+      "code": "45",
+      "name": "Craig Goodwin",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "45 craig goodwin australia core / hero"
+    },
+    {
+      "id": "50",
+      "number": "50",
+      "code": "50",
+      "name": "Kevin Danso",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "50 kevin danso austria core / hero"
+    },
+    {
+      "id": "53",
+      "number": "53",
+      "code": "53",
+      "name": "Nicolas Seiwald",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "53 nicolas seiwald austria core / hero"
+    },
+    {
+      "id": "59",
+      "number": "59",
+      "code": "59",
+      "name": "Team Crest",
+      "country": "Belgium",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "59 team crest belgium special 2 / team crest"
+    },
+    {
+      "id": "61",
+      "number": "61",
+      "code": "61",
+      "name": "Thibaut Courtois",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "61 thibaut courtois belgium core / hero"
+    },
+    {
+      "id": "65",
+      "number": "65",
+      "code": "65",
+      "name": "Amadou Onana",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "65 amadou onana belgium core / hero"
+    },
+    {
+      "id": "67",
+      "number": "67",
+      "code": "67",
+      "name": "Charles de Ketelaere",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "67 charles de ketelaere belgium core / hero"
+    },
+    {
+      "id": "72",
+      "number": "72",
+      "code": "72",
+      "name": "Vinícius Júnior",
+      "country": "Brazil",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "72 vinícius júnior brazil special 1 / icon"
+    },
+    {
+      "id": "80",
+      "number": "80",
+      "code": "80",
+      "name": "Matheus Cunha",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "80 matheus cunha brazil core / hero"
+    },
+    {
+      "id": "88",
+      "number": "88",
+      "code": "88",
+      "name": "Stephen Eustáquio",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "88 stephen eustáquio canada core / hero"
+    },
+    {
+      "id": "100",
+      "number": "100",
+      "code": "100",
+      "name": "João Paulo",
+      "country": "Cape Verde",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "100 joão paulo cape verde core / hero"
+    },
+    {
+      "id": "111",
+      "number": "111",
+      "code": "111",
+      "name": "Yerry Mina",
+      "country": "Colombia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "111 yerry mina colombia core / hero"
     },
     {
       "id": "123",
@@ -84,16 +214,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "129 andrej kramarić croatia core / hero"
-    },
-    {
-      "id": "13",
-      "number": "13",
-      "code": "13",
-      "name": "Alexis Guendouz",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "13 alexis guendouz algeria core / hero"
     },
     {
       "id": "133",
@@ -246,16 +366,6 @@
       "searchText": "230 shoja khalilzadeh iran core / hero"
     },
     {
-      "id": "24",
-      "number": "24",
-      "code": "24",
-      "name": "Lionel Messi",
-      "country": "Argentina",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "24 lionel messi argentina special 1 / icon"
-    },
-    {
       "id": "253",
       "number": "253",
       "code": "253",
@@ -344,16 +454,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "306 ismael saibari morocco core / hero"
-    },
-    {
-      "id": "31",
-      "number": "31",
-      "code": "31",
-      "name": "Rodrigo De Paul",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "31 rodrigo de paul argentina core / hero"
     },
     {
       "id": "316",
@@ -596,16 +696,6 @@
       "searchText": "447 dean huijsen spain core / hero"
     },
     {
-      "id": "45",
-      "number": "45",
-      "code": "45",
-      "name": "Craig Goodwin",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "45 craig goodwin australia core / hero"
-    },
-    {
       "id": "457",
       "number": "457",
       "code": "457",
@@ -716,16 +806,6 @@
       "searchText": "497 nahitan nández uruguay core / hero"
     },
     {
-      "id": "50",
-      "number": "50",
-      "code": "50",
-      "name": "Kevin Danso",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "50 kevin danso austria core / hero"
-    },
-    {
       "id": "507",
       "number": "507",
       "code": "507",
@@ -774,16 +854,6 @@
       "type": "CORE / Contender",
       "typeGroup": "CORE",
       "searchText": "525 gianluigi donnarumma italy core / contender"
-    },
-    {
-      "id": "53",
-      "number": "53",
-      "code": "53",
-      "name": "Nicolas Seiwald",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "53 nicolas seiwald austria core / hero"
     },
     {
       "id": "532",
@@ -896,16 +966,6 @@
       "searchText": "589 jonathan david canada special 2 / goal machine"
     },
     {
-      "id": "59",
-      "number": "59",
-      "code": "59",
-      "name": "Team Crest",
-      "country": "Belgium",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "59 team crest belgium special 2 / team crest"
-    },
-    {
       "id": "605",
       "number": "605",
       "code": "605",
@@ -914,16 +974,6 @@
       "type": "SPECIAL 2 / Goal Machine",
       "typeGroup": "SPECIAL 2",
       "searchText": "605 breel embolo switzerland special 2 / goal machine"
-    },
-    {
-      "id": "61",
-      "number": "61",
-      "code": "61",
-      "name": "Thibaut Courtois",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "61 thibaut courtois belgium core / hero"
     },
     {
       "id": "610",
@@ -966,56 +1016,6 @@
       "searchText": "624 trophy - ultra rare / official emblem"
     },
     {
-      "id": "65",
-      "number": "65",
-      "code": "65",
-      "name": "Amadou Onana",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "65 amadou onana belgium core / hero"
-    },
-    {
-      "id": "67",
-      "number": "67",
-      "code": "67",
-      "name": "Charles de Ketelaere",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "67 charles de ketelaere belgium core / hero"
-    },
-    {
-      "id": "72",
-      "number": "72",
-      "code": "72",
-      "name": "Vinícius Júnior",
-      "country": "Brazil",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "72 vinícius júnior brazil special 1 / icon"
-    },
-    {
-      "id": "80",
-      "number": "80",
-      "code": "80",
-      "name": "Matheus Cunha",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "80 matheus cunha brazil core / hero"
-    },
-    {
-      "id": "88",
-      "number": "88",
-      "code": "88",
-      "name": "Stephen Eustáquio",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "88 stephen eustáquio canada core / hero"
-    },
-    {
       "id": "LE-OD",
       "number": null,
       "code": "LE-OD",
@@ -1028,6 +1028,86 @@
   ],
   "missing": [
     {
+      "id": "2",
+      "number": "2",
+      "code": "2",
+      "name": "Vinícius Júnior",
+      "country": "Brazil",
+      "type": "RARE / Golden Baller",
+      "typeGroup": "RARE",
+      "searchText": "2 vinícius júnior brazil rare / golden baller"
+    },
+    {
+      "id": "3",
+      "number": "3",
+      "code": "3",
+      "name": "Mohamed Salah",
+      "country": "Egypt",
+      "type": "RARE / Golden Baller",
+      "typeGroup": "RARE",
+      "searchText": "3 mohamed salah egypt rare / golden baller"
+    },
+    {
+      "id": "4",
+      "number": "4",
+      "code": "4",
+      "name": "Harry Kane",
+      "country": "England",
+      "type": "RARE / Golden Baller",
+      "typeGroup": "RARE",
+      "searchText": "4 harry kane england rare / golden baller"
+    },
+    {
+      "id": "5",
+      "number": "5",
+      "code": "5",
+      "name": "Kylian Mbappé",
+      "country": "France",
+      "type": "RARE / Golden Baller",
+      "typeGroup": "RARE",
+      "searchText": "5 kylian mbappé france rare / golden baller"
+    },
+    {
+      "id": "6",
+      "number": "6",
+      "code": "6",
+      "name": "Heung-min Son",
+      "country": "Korea Republic",
+      "type": "RARE / Golden Baller",
+      "typeGroup": "RARE",
+      "searchText": "6 heung-min son korea republic rare / golden baller"
+    },
+    {
+      "id": "7",
+      "number": "7",
+      "code": "7",
+      "name": "Erling Haaland",
+      "country": "Norway",
+      "type": "RARE / Golden Baller",
+      "typeGroup": "RARE",
+      "searchText": "7 erling haaland norway rare / golden baller"
+    },
+    {
+      "id": "8",
+      "number": "8",
+      "code": "8",
+      "name": "Cristiano Ronaldo",
+      "country": "Portugal",
+      "type": "RARE / Golden Baller",
+      "typeGroup": "RARE",
+      "searchText": "8 cristiano ronaldo portugal rare / golden baller"
+    },
+    {
+      "id": "9",
+      "number": "9",
+      "code": "9",
+      "name": "Lamine Yamal",
+      "country": "Spain",
+      "type": "RARE / Golden Baller",
+      "typeGroup": "RARE",
+      "searchText": "9 lamine yamal spain rare / golden baller"
+    },
+    {
       "id": "10",
       "number": "10",
       "code": "10",
@@ -1036,6 +1116,746 @@
       "type": "SPECIAL 1 / Fan Favourite",
       "typeGroup": "SPECIAL 1",
       "searchText": "10 rayan aït-nouri algeria special 1 / fan favourite"
+    },
+    {
+      "id": "14",
+      "number": "14",
+      "code": "14",
+      "name": "Ramy Bensebaini",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "14 ramy bensebaini algeria core / hero"
+    },
+    {
+      "id": "15",
+      "number": "15",
+      "code": "15",
+      "name": "Youcef Atal",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "15 youcef atal algeria core / hero"
+    },
+    {
+      "id": "16",
+      "number": "16",
+      "code": "16",
+      "name": "Aïssa Mandi",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "16 aïssa mandi algeria core / hero"
+    },
+    {
+      "id": "17",
+      "number": "17",
+      "code": "17",
+      "name": "Nabil Bentaleb",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "17 nabil bentaleb algeria core / hero"
+    },
+    {
+      "id": "18",
+      "number": "18",
+      "code": "18",
+      "name": "Saïd Benrahma",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "18 saïd benrahma algeria core / hero"
+    },
+    {
+      "id": "19",
+      "number": "19",
+      "code": "19",
+      "name": "Amine Gouiri",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "19 amine gouiri algeria core / hero"
+    },
+    {
+      "id": "20",
+      "number": "20",
+      "code": "20",
+      "name": "Mohamed Amoura",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "20 mohamed amoura algeria core / hero"
+    },
+    {
+      "id": "21",
+      "number": "21",
+      "code": "21",
+      "name": "Baghdad Bounedjah",
+      "country": "Algeria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "21 baghdad bounedjah algeria core / hero"
+    },
+    {
+      "id": "22",
+      "number": "22",
+      "code": "22",
+      "name": "Julián Alvarez",
+      "country": "Argentina",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "22 julián alvarez argentina special 1 / fan favourite"
+    },
+    {
+      "id": "23",
+      "number": "23",
+      "code": "23",
+      "name": "Team Crest",
+      "country": "Argentina",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "23 team crest argentina special 2 / team crest"
+    },
+    {
+      "id": "25",
+      "number": "25",
+      "code": "25",
+      "name": "Emiliano Martínez",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "25 emiliano martínez argentina core / hero"
+    },
+    {
+      "id": "26",
+      "number": "26",
+      "code": "26",
+      "name": "Nahuel Molina",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "26 nahuel molina argentina core / hero"
+    },
+    {
+      "id": "27",
+      "number": "27",
+      "code": "27",
+      "name": "Cristian Romero",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "27 cristian romero argentina core / hero"
+    },
+    {
+      "id": "28",
+      "number": "28",
+      "code": "28",
+      "name": "Nicolás Otamendi",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "28 nicolás otamendi argentina core / hero"
+    },
+    {
+      "id": "29",
+      "number": "29",
+      "code": "29",
+      "name": "Enzo Fernández",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "29 enzo fernández argentina core / hero"
+    },
+    {
+      "id": "30",
+      "number": "30",
+      "code": "30",
+      "name": "Alexis Mac Allister",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "30 alexis mac allister argentina core / hero"
+    },
+    {
+      "id": "32",
+      "number": "32",
+      "code": "32",
+      "name": "Giuliano Simeone",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "32 giuliano simeone argentina core / hero"
+    },
+    {
+      "id": "33",
+      "number": "33",
+      "code": "33",
+      "name": "Lautato Martínez",
+      "country": "Argentina",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "33 lautato martínez argentina core / hero"
+    },
+    {
+      "id": "34",
+      "number": "34",
+      "code": "34",
+      "name": "Harry Souttar",
+      "country": "Australia",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "34 harry souttar australia special 1 / fan favourite"
+    },
+    {
+      "id": "35",
+      "number": "35",
+      "code": "35",
+      "name": "Team Crest",
+      "country": "Australia",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "35 team crest australia special 2 / team crest"
+    },
+    {
+      "id": "36",
+      "number": "36",
+      "code": "36",
+      "name": "Mathew Ryan",
+      "country": "Australia",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "36 mathew ryan australia special 1 / icon"
+    },
+    {
+      "id": "37",
+      "number": "37",
+      "code": "37",
+      "name": "Alessandro Circati",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "37 alessandro circati australia core / hero"
+    },
+    {
+      "id": "38",
+      "number": "38",
+      "code": "38",
+      "name": "Jordan Bos",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "38 jordan bos australia core / hero"
+    },
+    {
+      "id": "39",
+      "number": "39",
+      "code": "39",
+      "name": "Lewis Miller",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "39 lewis miller australia core / hero"
+    },
+    {
+      "id": "40",
+      "number": "40",
+      "code": "40",
+      "name": "Milos Degenek",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "40 milos degenek australia core / hero"
+    },
+    {
+      "id": "41",
+      "number": "41",
+      "code": "41",
+      "name": "Jackson Irvine",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "41 jackson irvine australia core / hero"
+    },
+    {
+      "id": "42",
+      "number": "42",
+      "code": "42",
+      "name": "Riley McGree",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "42 riley mcgree australia core / hero"
+    },
+    {
+      "id": "43",
+      "number": "43",
+      "code": "43",
+      "name": "Aiden O'Neill",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "43 aiden o'neill australia core / hero"
+    },
+    {
+      "id": "44",
+      "number": "44",
+      "code": "44",
+      "name": "Connor Metcalfe",
+      "country": "Australia",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "44 connor metcalfe australia core / hero"
+    },
+    {
+      "id": "46",
+      "number": "46",
+      "code": "46",
+      "name": "Marko Arnautović",
+      "country": "Austria",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "46 marko arnautović austria special 1 / fan favourite"
+    },
+    {
+      "id": "47",
+      "number": "47",
+      "code": "47",
+      "name": "Team Crest",
+      "country": "Austria",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "47 team crest austria special 2 / team crest"
+    },
+    {
+      "id": "48",
+      "number": "48",
+      "code": "48",
+      "name": "David Alaba",
+      "country": "Austria",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "48 david alaba austria special 1 / icon"
+    },
+    {
+      "id": "49",
+      "number": "49",
+      "code": "49",
+      "name": "Alexander Schlager",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "49 alexander schlager austria core / hero"
+    },
+    {
+      "id": "51",
+      "number": "51",
+      "code": "51",
+      "name": "Philipp Lienhart",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "51 philipp lienhart austria core / hero"
+    },
+    {
+      "id": "52",
+      "number": "52",
+      "code": "52",
+      "name": "Konrad Laimer",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "52 konrad laimer austria core / hero"
+    },
+    {
+      "id": "54",
+      "number": "54",
+      "code": "54",
+      "name": "Marcel Sabitzer",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "54 marcel sabitzer austria core / hero"
+    },
+    {
+      "id": "55",
+      "number": "55",
+      "code": "55",
+      "name": "Florian Grillitsch",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "55 florian grillitsch austria core / hero"
+    },
+    {
+      "id": "56",
+      "number": "56",
+      "code": "56",
+      "name": "Christoph Baumgartner",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "56 christoph baumgartner austria core / hero"
+    },
+    {
+      "id": "57",
+      "number": "57",
+      "code": "57",
+      "name": "Michael Gregoritsch",
+      "country": "Austria",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "57 michael gregoritsch austria core / hero"
+    },
+    {
+      "id": "58",
+      "number": "58",
+      "code": "58",
+      "name": "Youri Tielemans",
+      "country": "Belgium",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "58 youri tielemans belgium special 1 / fan favourite"
+    },
+    {
+      "id": "60",
+      "number": "60",
+      "code": "60",
+      "name": "Kevin de Bruyne",
+      "country": "Belgium",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "60 kevin de bruyne belgium special 1 / icon"
+    },
+    {
+      "id": "62",
+      "number": "62",
+      "code": "62",
+      "name": "Arthur Theate",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "62 arthur theate belgium core / hero"
+    },
+    {
+      "id": "63",
+      "number": "63",
+      "code": "63",
+      "name": "Timothy Castagne",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "63 timothy castagne belgium core / hero"
+    },
+    {
+      "id": "64",
+      "number": "64",
+      "code": "64",
+      "name": "Maxim de Cuyper",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "64 maxim de cuyper belgium core / hero"
+    },
+    {
+      "id": "66",
+      "number": "66",
+      "code": "66",
+      "name": "Jérémy Doku",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "66 jérémy doku belgium core / hero"
+    },
+    {
+      "id": "68",
+      "number": "68",
+      "code": "68",
+      "name": "Leandro Trossard",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "68 leandro trossard belgium core / hero"
+    },
+    {
+      "id": "69",
+      "number": "69",
+      "code": "69",
+      "name": "Romelu Lukaku",
+      "country": "Belgium",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "69 romelu lukaku belgium core / hero"
+    },
+    {
+      "id": "70",
+      "number": "70",
+      "code": "70",
+      "name": "Marquinhos",
+      "country": "Brazil",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "70 marquinhos brazil special 1 / fan favourite"
+    },
+    {
+      "id": "71",
+      "number": "71",
+      "code": "71",
+      "name": "Team Crest",
+      "country": "Brazil",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "71 team crest brazil special 2 / team crest"
+    },
+    {
+      "id": "73",
+      "number": "73",
+      "code": "73",
+      "name": "Alisson",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "73 alisson brazil core / hero"
+    },
+    {
+      "id": "74",
+      "number": "74",
+      "code": "74",
+      "name": "Danilo",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "74 danilo brazil core / hero"
+    },
+    {
+      "id": "75",
+      "number": "75",
+      "code": "75",
+      "name": "Éder Militão",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "75 éder militão brazil core / hero"
+    },
+    {
+      "id": "76",
+      "number": "76",
+      "code": "76",
+      "name": "Gabriel Magalhães",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "76 gabriel magalhães brazil core / hero"
+    },
+    {
+      "id": "77",
+      "number": "77",
+      "code": "77",
+      "name": "Casemiro",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "77 casemiro brazil core / hero"
+    },
+    {
+      "id": "78",
+      "number": "78",
+      "code": "78",
+      "name": "Bruno Guimarães",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "78 bruno guimarães brazil core / hero"
+    },
+    {
+      "id": "79",
+      "number": "79",
+      "code": "79",
+      "name": "Rodrygo",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "79 rodrygo brazil core / hero"
+    },
+    {
+      "id": "81",
+      "number": "81",
+      "code": "81",
+      "name": "Raphinha",
+      "country": "Brazil",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "81 raphinha brazil core / hero"
+    },
+    {
+      "id": "82",
+      "number": "82",
+      "code": "82",
+      "name": "Jonathan David",
+      "country": "Canada",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "82 jonathan david canada special 1 / fan favourite"
+    },
+    {
+      "id": "83",
+      "number": "83",
+      "code": "83",
+      "name": "Team Crest",
+      "country": "Canada",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "83 team crest canada special 2 / team crest"
+    },
+    {
+      "id": "84",
+      "number": "84",
+      "code": "84",
+      "name": "Alphonso Davies",
+      "country": "Canada",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "84 alphonso davies canada special 1 / icon"
+    },
+    {
+      "id": "85",
+      "number": "85",
+      "code": "85",
+      "name": "Dayne St. Clair",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "85 dayne st. clair canada core / hero"
+    },
+    {
+      "id": "86",
+      "number": "86",
+      "code": "86",
+      "name": "Richie Laryea",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "86 richie laryea canada core / hero"
+    },
+    {
+      "id": "87",
+      "number": "87",
+      "code": "87",
+      "name": "Derek Cornelius",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "87 derek cornelius canada core / hero"
+    },
+    {
+      "id": "89",
+      "number": "89",
+      "code": "89",
+      "name": "Ismaël Koné",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "89 ismaël koné canada core / hero"
+    },
+    {
+      "id": "90",
+      "number": "90",
+      "code": "90",
+      "name": "Jonathan Osorio",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "90 jonathan osorio canada core / hero"
+    },
+    {
+      "id": "91",
+      "number": "91",
+      "code": "91",
+      "name": "Jacob Shaffelburg",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "91 jacob shaffelburg canada core / hero"
+    },
+    {
+      "id": "92",
+      "number": "92",
+      "code": "92",
+      "name": "Tajon Buchanan",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "92 tajon buchanan canada core / hero"
+    },
+    {
+      "id": "93",
+      "number": "93",
+      "code": "93",
+      "name": "Cyle Larin",
+      "country": "Canada",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "93 cyle larin canada core / hero"
+    },
+    {
+      "id": "94",
+      "number": "94",
+      "code": "94",
+      "name": "Vozinha",
+      "country": "Cape Verde",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "94 vozinha cape verde special 1 / fan favourite"
+    },
+    {
+      "id": "95",
+      "number": "95",
+      "code": "95",
+      "name": "Team Crest",
+      "country": "Cape Verde",
+      "type": "SPECIAL 2 / Team Crest",
+      "typeGroup": "SPECIAL 2",
+      "searchText": "95 team crest cape verde special 2 / team crest"
+    },
+    {
+      "id": "96",
+      "number": "96",
+      "code": "96",
+      "name": "Ryan Mendes",
+      "country": "Cape Verde",
+      "type": "SPECIAL 1 / Icon",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "96 ryan mendes cape verde special 1 / icon"
+    },
+    {
+      "id": "97",
+      "number": "97",
+      "code": "97",
+      "name": "Logan Costa",
+      "country": "Cape Verde",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "97 logan costa cape verde core / hero"
+    },
+    {
+      "id": "98",
+      "number": "98",
+      "code": "98",
+      "name": "Pico",
+      "country": "Cape Verde",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "98 pico cape verde core / hero"
+    },
+    {
+      "id": "99",
+      "number": "99",
+      "code": "99",
+      "name": "Steven Moreira",
+      "country": "Cape Verde",
+      "type": "CORE / Hero",
+      "typeGroup": "CORE",
+      "searchText": "99 steven moreira cape verde core / hero"
     },
     {
       "id": "101",
@@ -1368,16 +2188,6 @@
       "searchText": "138 juninho bacuna curaçao core / hero"
     },
     {
-      "id": "14",
-      "number": "14",
-      "code": "14",
-      "name": "Ramy Bensebaini",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "14 ramy bensebaini algeria core / hero"
-    },
-    {
       "id": "140",
       "number": "140",
       "code": "140",
@@ -1468,16 +2278,6 @@
       "searchText": "149 ángelo preciado ecuador core / hero"
     },
     {
-      "id": "15",
-      "number": "15",
-      "code": "15",
-      "name": "Youcef Atal",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "15 youcef atal algeria core / hero"
-    },
-    {
       "id": "150",
       "number": "150",
       "code": "150",
@@ -1556,16 +2356,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "159 mohamed abdelmonem egypt core / hero"
-    },
-    {
-      "id": "16",
-      "number": "16",
-      "code": "16",
-      "name": "Aïssa Mandi",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "16 aïssa mandi algeria core / hero"
     },
     {
       "id": "160",
@@ -1668,16 +2458,6 @@
       "searchText": "169 jordan pickford england core / hero"
     },
     {
-      "id": "17",
-      "number": "17",
-      "code": "17",
-      "name": "Nabil Bentaleb",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "17 nabil bentaleb algeria core / hero"
-    },
-    {
       "id": "170",
       "number": "170",
       "code": "170",
@@ -1756,16 +2536,6 @@
       "type": "SPECIAL 2 / Team Crest",
       "typeGroup": "SPECIAL 2",
       "searchText": "179 team crest france special 2 / team crest"
-    },
-    {
-      "id": "18",
-      "number": "18",
-      "code": "18",
-      "name": "Saïd Benrahma",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "18 saïd benrahma algeria core / hero"
     },
     {
       "id": "180",
@@ -1858,16 +2628,6 @@
       "searchText": "189 randal kolo muani france core / hero"
     },
     {
-      "id": "19",
-      "number": "19",
-      "code": "19",
-      "name": "Amine Gouiri",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "19 amine gouiri algeria core / hero"
-    },
-    {
       "id": "190",
       "number": "190",
       "code": "190",
@@ -1946,26 +2706,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "199 serge gnabry germany core / hero"
-    },
-    {
-      "id": "2",
-      "number": "2",
-      "code": "2",
-      "name": "Vinícius Júnior",
-      "country": "Brazil",
-      "type": "RARE / Golden Baller",
-      "typeGroup": "RARE",
-      "searchText": "2 vinícius júnior brazil rare / golden baller"
-    },
-    {
-      "id": "20",
-      "number": "20",
-      "code": "20",
-      "name": "Mohamed Amoura",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "20 mohamed amoura algeria core / hero"
     },
     {
       "id": "201",
@@ -2058,16 +2798,6 @@
       "searchText": "209 caleb yirenkyi ghana core / hero"
     },
     {
-      "id": "21",
-      "number": "21",
-      "code": "21",
-      "name": "Baghdad Bounedjah",
-      "country": "Algeria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "21 baghdad bounedjah algeria core / hero"
-    },
-    {
       "id": "211",
       "number": "211",
       "code": "211",
@@ -2158,16 +2888,6 @@
       "searchText": "219 carlens arcus haiti core / hero"
     },
     {
-      "id": "22",
-      "number": "22",
-      "code": "22",
-      "name": "Julián Alvarez",
-      "country": "Argentina",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "22 julián alvarez argentina special 1 / fan favourite"
-    },
-    {
       "id": "220",
       "number": "220",
       "code": "220",
@@ -2246,16 +2966,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "229 alireza beiranvand iran core / hero"
-    },
-    {
-      "id": "23",
-      "number": "23",
-      "code": "23",
-      "name": "Team Crest",
-      "country": "Argentina",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "23 team crest argentina special 2 / team crest"
     },
     {
       "id": "231",
@@ -2448,16 +3158,6 @@
       "searchText": "249 oumar diakité ivory coast core / hero"
     },
     {
-      "id": "25",
-      "number": "25",
-      "code": "25",
-      "name": "Emiliano Martínez",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "25 emiliano martínez argentina core / hero"
-    },
-    {
       "id": "250",
       "number": "250",
       "code": "250",
@@ -2546,16 +3246,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "259 keito nakamura japan core / hero"
-    },
-    {
-      "id": "26",
-      "number": "26",
-      "code": "26",
-      "name": "Nahuel Molina",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "26 nahuel molina argentina core / hero"
     },
     {
       "id": "260",
@@ -2658,16 +3348,6 @@
       "searchText": "269 ibrahim saadeh jordan core / hero"
     },
     {
-      "id": "27",
-      "number": "27",
-      "code": "27",
-      "name": "Cristian Romero",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "27 cristian romero argentina core / hero"
-    },
-    {
       "id": "270",
       "number": "270",
       "code": "270",
@@ -2756,16 +3436,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "279 yu-min cho korea republic core / hero"
-    },
-    {
-      "id": "28",
-      "number": "28",
-      "code": "28",
-      "name": "Nicolás Otamendi",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "28 nicolás otamendi argentina core / hero"
     },
     {
       "id": "280",
@@ -2858,16 +3528,6 @@
       "searchText": "289 luis malagón mexico core / hero"
     },
     {
-      "id": "29",
-      "number": "29",
-      "code": "29",
-      "name": "Enzo Fernández",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "29 enzo fernández argentina core / hero"
-    },
-    {
       "id": "290",
       "number": "290",
       "code": "290",
@@ -2936,26 +3596,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "297 santiago giménez mexico core / hero"
-    },
-    {
-      "id": "3",
-      "number": "3",
-      "code": "3",
-      "name": "Mohamed Salah",
-      "country": "Egypt",
-      "type": "RARE / Golden Baller",
-      "typeGroup": "RARE",
-      "searchText": "3 mohamed salah egypt rare / golden baller"
-    },
-    {
-      "id": "30",
-      "number": "30",
-      "code": "30",
-      "name": "Alexis Mac Allister",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "30 alexis mac allister argentina core / hero"
     },
     {
       "id": "300",
@@ -3108,16 +3748,6 @@
       "searchText": "319 cody gakpo netherlands core / hero"
     },
     {
-      "id": "32",
-      "number": "32",
-      "code": "32",
-      "name": "Giuliano Simeone",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "32 giuliano simeone argentina core / hero"
-    },
-    {
       "id": "320",
       "number": "320",
       "code": "320",
@@ -3218,16 +3848,6 @@
       "searchText": "329 finn surman new zealand core / hero"
     },
     {
-      "id": "33",
-      "number": "33",
-      "code": "33",
-      "name": "Lautato Martínez",
-      "country": "Argentina",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "33 lautato martínez argentina core / hero"
-    },
-    {
       "id": "330",
       "number": "330",
       "code": "330",
@@ -3318,16 +3938,6 @@
       "searchText": "339 kristoffer vassbakk ajer norway core / hero"
     },
     {
-      "id": "34",
-      "number": "34",
-      "code": "34",
-      "name": "Harry Souttar",
-      "country": "Australia",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "34 harry souttar australia special 1 / fan favourite"
-    },
-    {
       "id": "340",
       "number": "340",
       "code": "340",
@@ -3376,16 +3986,6 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "348 aníbal godoy panama special 1 / icon"
-    },
-    {
-      "id": "35",
-      "number": "35",
-      "code": "35",
-      "name": "Team Crest",
-      "country": "Australia",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "35 team crest australia special 2 / team crest"
     },
     {
       "id": "350",
@@ -3488,16 +4088,6 @@
       "searchText": "359 team crest paraguay special 2 / team crest"
     },
     {
-      "id": "36",
-      "number": "36",
-      "code": "36",
-      "name": "Mathew Ryan",
-      "country": "Australia",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "36 mathew ryan australia special 1 / icon"
-    },
-    {
       "id": "362",
       "number": "362",
       "code": "362",
@@ -3566,16 +4156,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "369 antonio sanabria paraguay core / hero"
-    },
-    {
-      "id": "37",
-      "number": "37",
-      "code": "37",
-      "name": "Alessandro Circati",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "37 alessandro circati australia core / hero"
     },
     {
       "id": "370",
@@ -3678,16 +4258,6 @@
       "searchText": "379 francisco conceição portugal core / hero"
     },
     {
-      "id": "38",
-      "number": "38",
-      "code": "38",
-      "name": "Jordan Bos",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "38 jordan bos australia core / hero"
-    },
-    {
       "id": "380",
       "number": "380",
       "code": "380",
@@ -3788,16 +4358,6 @@
       "searchText": "389 homam al-amin qatar core / hero"
     },
     {
-      "id": "39",
-      "number": "39",
-      "code": "39",
-      "name": "Lewis Miller",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "39 lewis miller australia core / hero"
-    },
-    {
       "id": "390",
       "number": "390",
       "code": "390",
@@ -3866,26 +4426,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "399 jehad thikri saudi arabia core / hero"
-    },
-    {
-      "id": "4",
-      "number": "4",
-      "code": "4",
-      "name": "Harry Kane",
-      "country": "England",
-      "type": "RARE / Golden Baller",
-      "typeGroup": "RARE",
-      "searchText": "4 harry kane england rare / golden baller"
-    },
-    {
-      "id": "40",
-      "number": "40",
-      "code": "40",
-      "name": "Milos Degenek",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "40 milos degenek australia core / hero"
     },
     {
       "id": "400",
@@ -3966,16 +4506,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "409 angus gunn scotland core / hero"
-    },
-    {
-      "id": "41",
-      "number": "41",
-      "code": "41",
-      "name": "Jackson Irvine",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "41 jackson irvine australia core / hero"
     },
     {
       "id": "410",
@@ -4068,16 +4598,6 @@
       "searchText": "419 team crest senegal special 2 / team crest"
     },
     {
-      "id": "42",
-      "number": "42",
-      "code": "42",
-      "name": "Riley McGree",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "42 riley mcgree australia core / hero"
-    },
-    {
       "id": "420",
       "number": "420",
       "code": "420",
@@ -4146,16 +4666,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "428 ismaïla sarr senegal core / hero"
-    },
-    {
-      "id": "43",
-      "number": "43",
-      "code": "43",
-      "name": "Aiden O'Neill",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "43 aiden o'neill australia core / hero"
     },
     {
       "id": "430",
@@ -4236,16 +4746,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "439 themba zwane south africa core / hero"
-    },
-    {
-      "id": "44",
-      "number": "44",
-      "code": "44",
-      "name": "Connor Metcalfe",
-      "country": "Australia",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "44 connor metcalfe australia core / hero"
     },
     {
       "id": "440",
@@ -4398,16 +4898,6 @@
       "searchText": "456 granit xhaka switzerland special 1 / icon"
     },
     {
-      "id": "46",
-      "number": "46",
-      "code": "46",
-      "name": "Marko Arnautović",
-      "country": "Austria",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "46 marko arnautović austria special 1 / fan favourite"
-    },
-    {
       "id": "461",
       "number": "461",
       "code": "461",
@@ -4486,16 +4976,6 @@
       "type": "SPECIAL 1 / Icon",
       "typeGroup": "SPECIAL 1",
       "searchText": "468 ellyes skhiri tunisia special 1 / icon"
-    },
-    {
-      "id": "47",
-      "number": "47",
-      "code": "47",
-      "name": "Team Crest",
-      "country": "Austria",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "47 team crest austria special 2 / team crest"
     },
     {
       "id": "470",
@@ -4588,16 +5068,6 @@
       "searchText": "478 weston mckennie united states special 1 / fan favourite"
     },
     {
-      "id": "48",
-      "number": "48",
-      "code": "48",
-      "name": "David Alaba",
-      "country": "Austria",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "48 david alaba austria special 1 / icon"
-    },
-    {
       "id": "480",
       "number": "480",
       "code": "480",
@@ -4666,16 +5136,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "488 malik tillman united states core / hero"
-    },
-    {
-      "id": "49",
-      "number": "49",
-      "code": "49",
-      "name": "Alexander Schlager",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "49 alexander schlager austria core / hero"
     },
     {
       "id": "490",
@@ -4756,16 +5216,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "499 manuel ugarte uruguay core / hero"
-    },
-    {
-      "id": "5",
-      "number": "5",
-      "code": "5",
-      "name": "Kylian Mbappé",
-      "country": "France",
-      "type": "RARE / Golden Baller",
-      "typeGroup": "RARE",
-      "searchText": "5 kylian mbappé france rare / golden baller"
     },
     {
       "id": "500",
@@ -4858,16 +5308,6 @@
       "searchText": "509 rustam ashurmatov uzbekistan core / hero"
     },
     {
-      "id": "51",
-      "number": "51",
-      "code": "51",
-      "name": "Philipp Lienhart",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "51 philipp lienhart austria core / hero"
-    },
-    {
       "id": "511",
       "number": "511",
       "code": "511",
@@ -4946,16 +5386,6 @@
       "type": "CORE / Contenders",
       "typeGroup": "CORE",
       "searchText": "519 team crests suriname-bolivia / iraq core / contenders"
-    },
-    {
-      "id": "52",
-      "number": "52",
-      "code": "52",
-      "name": "Konrad Laimer",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "52 konrad laimer austria core / hero"
     },
     {
       "id": "520",
@@ -5108,16 +5538,6 @@
       "searchText": "538 sebastian szymański poland core / contender"
     },
     {
-      "id": "54",
-      "number": "54",
-      "code": "54",
-      "name": "Marcel Sabitzer",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "54 marcel sabitzer austria core / hero"
-    },
-    {
       "id": "540",
       "number": "540",
       "code": "540",
@@ -5206,16 +5626,6 @@
       "type": "CORE / Contender",
       "typeGroup": "CORE",
       "searchText": "549 kerem aktürkoğlu turkey core / contender"
-    },
-    {
-      "id": "55",
-      "number": "55",
-      "code": "55",
-      "name": "Florian Grillitsch",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "55 florian grillitsch austria core / hero"
     },
     {
       "id": "550",
@@ -5308,16 +5718,6 @@
       "searchText": "559 éder miliatão brazil special 2 / defensive rock"
     },
     {
-      "id": "56",
-      "number": "56",
-      "code": "56",
-      "name": "Christoph Baumgartner",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "56 christoph baumgartner austria core / hero"
-    },
-    {
       "id": "560",
       "number": "560",
       "code": "560",
@@ -5408,16 +5808,6 @@
       "searchText": "569 kevin de bruyne belgium special 2 / midfield maestro"
     },
     {
-      "id": "57",
-      "number": "57",
-      "code": "57",
-      "name": "Michael Gregoritsch",
-      "country": "Austria",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "57 michael gregoritsch austria core / hero"
-    },
-    {
       "id": "570",
       "number": "570",
       "code": "570",
@@ -5496,16 +5886,6 @@
       "type": "SPECIAL 2 / Midfield Maestro",
       "typeGroup": "SPECIAL 2",
       "searchText": "579 vitinha portugal special 2 / midfield maestro"
-    },
-    {
-      "id": "58",
-      "number": "58",
-      "code": "58",
-      "name": "Youri Tielemans",
-      "country": "Belgium",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "58 youri tielemans belgium special 1 / fan favourite"
     },
     {
       "id": "580",
@@ -5678,26 +6058,6 @@
       "searchText": "599 youssef en-nesyri marocco special 2 / goal machine"
     },
     {
-      "id": "6",
-      "number": "6",
-      "code": "6",
-      "name": "Heung-min Son",
-      "country": "Korea Republic",
-      "type": "RARE / Golden Baller",
-      "typeGroup": "RARE",
-      "searchText": "6 heung-min son korea republic rare / golden baller"
-    },
-    {
-      "id": "60",
-      "number": "60",
-      "code": "60",
-      "name": "Kevin de Bruyne",
-      "country": "Belgium",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "60 kevin de bruyne belgium special 1 / icon"
-    },
-    {
       "id": "600",
       "number": "600",
       "code": "600",
@@ -5858,16 +6218,6 @@
       "searchText": "619 xavi simons netherlands special 1 / master rookie"
     },
     {
-      "id": "62",
-      "number": "62",
-      "code": "62",
-      "name": "Arthur Theate",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "62 arthur theate belgium core / hero"
-    },
-    {
       "id": "620",
       "number": "620",
       "code": "620",
@@ -5998,16 +6348,6 @@
       "searchText": "629 alexis mac allister / rodrigo de paul / enzo fernández argentina ultra rare / eternos 22"
     },
     {
-      "id": "63",
-      "number": "63",
-      "code": "63",
-      "name": "Timothy Castagne",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "63 timothy castagne belgium core / hero"
-    },
-    {
       "id": "630",
       "number": "630",
       "code": "630",
@@ -6108,16 +6448,6 @@
       "searchText": "639 erling haaland norway special 3 / giant"
     },
     {
-      "id": "64",
-      "number": "64",
-      "code": "64",
-      "name": "Maxim de Cuyper",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "64 maxim de cuyper belgium core / hero"
-    },
-    {
       "id": "640",
       "number": "640",
       "code": "640",
@@ -6208,336 +6538,6 @@
       "searchText": "648 roony bardghji sweden special 3 / contender nordic master rookie"
     },
     {
-      "id": "66",
-      "number": "66",
-      "code": "66",
-      "name": "Jérémy Doku",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "66 jérémy doku belgium core / hero"
-    },
-    {
-      "id": "68",
-      "number": "68",
-      "code": "68",
-      "name": "Leandro Trossard",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "68 leandro trossard belgium core / hero"
-    },
-    {
-      "id": "69",
-      "number": "69",
-      "code": "69",
-      "name": "Romelu Lukaku",
-      "country": "Belgium",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "69 romelu lukaku belgium core / hero"
-    },
-    {
-      "id": "7",
-      "number": "7",
-      "code": "7",
-      "name": "Erling Haaland",
-      "country": "Norway",
-      "type": "RARE / Golden Baller",
-      "typeGroup": "RARE",
-      "searchText": "7 erling haaland norway rare / golden baller"
-    },
-    {
-      "id": "70",
-      "number": "70",
-      "code": "70",
-      "name": "Marquinhos",
-      "country": "Brazil",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "70 marquinhos brazil special 1 / fan favourite"
-    },
-    {
-      "id": "71",
-      "number": "71",
-      "code": "71",
-      "name": "Team Crest",
-      "country": "Brazil",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "71 team crest brazil special 2 / team crest"
-    },
-    {
-      "id": "73",
-      "number": "73",
-      "code": "73",
-      "name": "Alisson",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "73 alisson brazil core / hero"
-    },
-    {
-      "id": "74",
-      "number": "74",
-      "code": "74",
-      "name": "Danilo",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "74 danilo brazil core / hero"
-    },
-    {
-      "id": "75",
-      "number": "75",
-      "code": "75",
-      "name": "Éder Militão",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "75 éder militão brazil core / hero"
-    },
-    {
-      "id": "76",
-      "number": "76",
-      "code": "76",
-      "name": "Gabriel Magalhães",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "76 gabriel magalhães brazil core / hero"
-    },
-    {
-      "id": "77",
-      "number": "77",
-      "code": "77",
-      "name": "Casemiro",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "77 casemiro brazil core / hero"
-    },
-    {
-      "id": "78",
-      "number": "78",
-      "code": "78",
-      "name": "Bruno Guimarães",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "78 bruno guimarães brazil core / hero"
-    },
-    {
-      "id": "79",
-      "number": "79",
-      "code": "79",
-      "name": "Rodrygo",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "79 rodrygo brazil core / hero"
-    },
-    {
-      "id": "8",
-      "number": "8",
-      "code": "8",
-      "name": "Cristiano Ronaldo",
-      "country": "Portugal",
-      "type": "RARE / Golden Baller",
-      "typeGroup": "RARE",
-      "searchText": "8 cristiano ronaldo portugal rare / golden baller"
-    },
-    {
-      "id": "81",
-      "number": "81",
-      "code": "81",
-      "name": "Raphinha",
-      "country": "Brazil",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "81 raphinha brazil core / hero"
-    },
-    {
-      "id": "82",
-      "number": "82",
-      "code": "82",
-      "name": "Jonathan David",
-      "country": "Canada",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "82 jonathan david canada special 1 / fan favourite"
-    },
-    {
-      "id": "83",
-      "number": "83",
-      "code": "83",
-      "name": "Team Crest",
-      "country": "Canada",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "83 team crest canada special 2 / team crest"
-    },
-    {
-      "id": "84",
-      "number": "84",
-      "code": "84",
-      "name": "Alphonso Davies",
-      "country": "Canada",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "84 alphonso davies canada special 1 / icon"
-    },
-    {
-      "id": "85",
-      "number": "85",
-      "code": "85",
-      "name": "Dayne St. Clair",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "85 dayne st. clair canada core / hero"
-    },
-    {
-      "id": "86",
-      "number": "86",
-      "code": "86",
-      "name": "Richie Laryea",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "86 richie laryea canada core / hero"
-    },
-    {
-      "id": "87",
-      "number": "87",
-      "code": "87",
-      "name": "Derek Cornelius",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "87 derek cornelius canada core / hero"
-    },
-    {
-      "id": "89",
-      "number": "89",
-      "code": "89",
-      "name": "Ismaël Koné",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "89 ismaël koné canada core / hero"
-    },
-    {
-      "id": "9",
-      "number": "9",
-      "code": "9",
-      "name": "Lamine Yamal",
-      "country": "Spain",
-      "type": "RARE / Golden Baller",
-      "typeGroup": "RARE",
-      "searchText": "9 lamine yamal spain rare / golden baller"
-    },
-    {
-      "id": "90",
-      "number": "90",
-      "code": "90",
-      "name": "Jonathan Osorio",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "90 jonathan osorio canada core / hero"
-    },
-    {
-      "id": "91",
-      "number": "91",
-      "code": "91",
-      "name": "Jacob Shaffelburg",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "91 jacob shaffelburg canada core / hero"
-    },
-    {
-      "id": "92",
-      "number": "92",
-      "code": "92",
-      "name": "Tajon Buchanan",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "92 tajon buchanan canada core / hero"
-    },
-    {
-      "id": "93",
-      "number": "93",
-      "code": "93",
-      "name": "Cyle Larin",
-      "country": "Canada",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "93 cyle larin canada core / hero"
-    },
-    {
-      "id": "94",
-      "number": "94",
-      "code": "94",
-      "name": "Vozinha",
-      "country": "Cape Verde",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "94 vozinha cape verde special 1 / fan favourite"
-    },
-    {
-      "id": "95",
-      "number": "95",
-      "code": "95",
-      "name": "Team Crest",
-      "country": "Cape Verde",
-      "type": "SPECIAL 2 / Team Crest",
-      "typeGroup": "SPECIAL 2",
-      "searchText": "95 team crest cape verde special 2 / team crest"
-    },
-    {
-      "id": "96",
-      "number": "96",
-      "code": "96",
-      "name": "Ryan Mendes",
-      "country": "Cape Verde",
-      "type": "SPECIAL 1 / Icon",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "96 ryan mendes cape verde special 1 / icon"
-    },
-    {
-      "id": "97",
-      "number": "97",
-      "code": "97",
-      "name": "Logan Costa",
-      "country": "Cape Verde",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "97 logan costa cape verde core / hero"
-    },
-    {
-      "id": "98",
-      "number": "98",
-      "code": "98",
-      "name": "Pico",
-      "country": "Cape Verde",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "98 pico cape verde core / hero"
-    },
-    {
-      "id": "99",
-      "number": "99",
-      "code": "99",
-      "name": "Steven Moreira",
-      "country": "Cape Verde",
-      "type": "CORE / Hero",
-      "typeGroup": "CORE",
-      "searchText": "99 steven moreira cape verde core / hero"
-    },
-    {
       "id": "DB1",
       "number": null,
       "code": "DB1",
@@ -6546,6 +6546,176 @@
       "type": "FIFA World Cup Master",
       "typeGroup": "FIFA World Cup Master",
       "searchText": "db1 ángel di maría argentina fifa world cup master"
+    },
+    {
+      "id": "DB1a",
+      "number": null,
+      "code": "DB1a",
+      "name": "Argentina",
+      "country": "FIFA World Cup Master Autograph",
+      "type": "294",
+      "typeGroup": "294",
+      "searchText": "db1a argentina fifa world cup master autograph 294"
+    },
+    {
+      "id": "DB2",
+      "number": null,
+      "code": "DB2",
+      "name": "Javier Mascherano",
+      "country": "Argentina",
+      "type": "FIFA World Cup Master",
+      "typeGroup": "FIFA World Cup Master",
+      "searchText": "db2 javier mascherano argentina fifa world cup master"
+    },
+    {
+      "id": "DB2a",
+      "number": null,
+      "code": "DB2a",
+      "name": "Argentina",
+      "country": "FIFA World Cup Master Autograph",
+      "type": "292",
+      "typeGroup": "292",
+      "searchText": "db2a argentina fifa world cup master autograph 292"
+    },
+    {
+      "id": "DB3",
+      "number": null,
+      "code": "DB3",
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "type": "FIFA World Cup Master",
+      "typeGroup": "FIFA World Cup Master",
+      "searchText": "db3 lionel messi argentina fifa world cup master"
+    },
+    {
+      "id": "DB3a",
+      "number": null,
+      "code": "DB3a",
+      "name": "Argentina",
+      "country": "FIFA World Cup Master Autograph",
+      "type": "308",
+      "typeGroup": "308",
+      "searchText": "db3a argentina fifa world cup master autograph 308"
+    },
+    {
+      "id": "DB4",
+      "number": null,
+      "code": "DB4",
+      "name": "Gabriel Batistuta",
+      "country": "Argentina",
+      "type": "FIFA World Cup Master",
+      "typeGroup": "FIFA World Cup Master",
+      "searchText": "db4 gabriel batistuta argentina fifa world cup master"
+    },
+    {
+      "id": "DB4a",
+      "number": null,
+      "code": "DB4a",
+      "name": "Argentina",
+      "country": "FIFA World Cup Master Autograph",
+      "type": "294",
+      "typeGroup": "294",
+      "searchText": "db4a argentina fifa world cup master autograph 294"
+    },
+    {
+      "id": "DB5",
+      "number": null,
+      "code": "DB5",
+      "name": "Pelé",
+      "country": "Brazil",
+      "type": "FIFA World Cup Master",
+      "typeGroup": "FIFA World Cup Master",
+      "searchText": "db5 pelé brazil fifa world cup master"
+    },
+    {
+      "id": "DB5a",
+      "number": null,
+      "code": "DB5a",
+      "name": "Brazil",
+      "country": "FIFA World Cup Master Autograph",
+      "type": "296",
+      "typeGroup": "296",
+      "searchText": "db5a brazil fifa world cup master autograph 296"
+    },
+    {
+      "id": "DB6",
+      "number": null,
+      "code": "DB6",
+      "name": "Ronaldo",
+      "country": "Brazil",
+      "type": "FIFA World Cup Master",
+      "typeGroup": "FIFA World Cup Master",
+      "searchText": "db6 ronaldo brazil fifa world cup master"
+    },
+    {
+      "id": "DB6a",
+      "number": null,
+      "code": "DB6a",
+      "name": "Brazil",
+      "country": "FIFA World Cup Master Autograph",
+      "type": "298",
+      "typeGroup": "298",
+      "searchText": "db6a brazil fifa world cup master autograph 298"
+    },
+    {
+      "id": "DB7",
+      "number": null,
+      "code": "DB7",
+      "name": "Rivaldo",
+      "country": "Brazil",
+      "type": "FIFA World Cup Master",
+      "typeGroup": "FIFA World Cup Master",
+      "searchText": "db7 rivaldo brazil fifa world cup master"
+    },
+    {
+      "id": "DB7a",
+      "number": null,
+      "code": "DB7a",
+      "name": "Brazil",
+      "country": "FIFA World Cup Master Autograph",
+      "type": "294",
+      "typeGroup": "294",
+      "searchText": "db7a brazil fifa world cup master autograph 294"
+    },
+    {
+      "id": "DB8",
+      "number": null,
+      "code": "DB8",
+      "name": "Kaká",
+      "country": "Brazil",
+      "type": "FIFA World Cup Master",
+      "typeGroup": "FIFA World Cup Master",
+      "searchText": "db8 kaká brazil fifa world cup master"
+    },
+    {
+      "id": "DB8a",
+      "number": null,
+      "code": "DB8a",
+      "name": "Brazil",
+      "country": "FIFA World Cup Master Autograph",
+      "type": "293",
+      "typeGroup": "293",
+      "searchText": "db8a brazil fifa world cup master autograph 293"
+    },
+    {
+      "id": "DB9",
+      "number": null,
+      "code": "DB9",
+      "name": "Luka Modrić",
+      "country": "Croatia",
+      "type": "FIFA World Cup Master",
+      "typeGroup": "FIFA World Cup Master",
+      "searchText": "db9 luka modrić croatia fifa world cup master"
+    },
+    {
+      "id": "DB9a",
+      "number": null,
+      "code": "DB9a",
+      "name": "Croatia",
+      "country": "FIFA World Cup Master Autograph",
+      "type": "306",
+      "typeGroup": "306",
+      "searchText": "db9a croatia fifa world cup master autograph 306"
     },
     {
       "id": "DB10",
@@ -6748,26 +6918,6 @@
       "searchText": "db19a italy fifa world cup master autograph 297"
     },
     {
-      "id": "DB1a",
-      "number": null,
-      "code": "DB1a",
-      "name": "Argentina",
-      "country": "FIFA World Cup Master Autograph",
-      "type": "294",
-      "typeGroup": "294",
-      "searchText": "db1a argentina fifa world cup master autograph 294"
-    },
-    {
-      "id": "DB2",
-      "number": null,
-      "code": "DB2",
-      "name": "Javier Mascherano",
-      "country": "Argentina",
-      "type": "FIFA World Cup Master",
-      "typeGroup": "FIFA World Cup Master",
-      "searchText": "db2 javier mascherano argentina fifa world cup master"
-    },
-    {
       "id": "DB20",
       "number": null,
       "code": "DB20",
@@ -6866,156 +7016,6 @@
       "type": "294",
       "typeGroup": "294",
       "searchText": "db24a uruguay fifa world cup master autograph 294"
-    },
-    {
-      "id": "DB2a",
-      "number": null,
-      "code": "DB2a",
-      "name": "Argentina",
-      "country": "FIFA World Cup Master Autograph",
-      "type": "292",
-      "typeGroup": "292",
-      "searchText": "db2a argentina fifa world cup master autograph 292"
-    },
-    {
-      "id": "DB3",
-      "number": null,
-      "code": "DB3",
-      "name": "Lionel Messi",
-      "country": "Argentina",
-      "type": "FIFA World Cup Master",
-      "typeGroup": "FIFA World Cup Master",
-      "searchText": "db3 lionel messi argentina fifa world cup master"
-    },
-    {
-      "id": "DB3a",
-      "number": null,
-      "code": "DB3a",
-      "name": "Argentina",
-      "country": "FIFA World Cup Master Autograph",
-      "type": "308",
-      "typeGroup": "308",
-      "searchText": "db3a argentina fifa world cup master autograph 308"
-    },
-    {
-      "id": "DB4",
-      "number": null,
-      "code": "DB4",
-      "name": "Gabriel Batistuta",
-      "country": "Argentina",
-      "type": "FIFA World Cup Master",
-      "typeGroup": "FIFA World Cup Master",
-      "searchText": "db4 gabriel batistuta argentina fifa world cup master"
-    },
-    {
-      "id": "DB4a",
-      "number": null,
-      "code": "DB4a",
-      "name": "Argentina",
-      "country": "FIFA World Cup Master Autograph",
-      "type": "294",
-      "typeGroup": "294",
-      "searchText": "db4a argentina fifa world cup master autograph 294"
-    },
-    {
-      "id": "DB5",
-      "number": null,
-      "code": "DB5",
-      "name": "Pelé",
-      "country": "Brazil",
-      "type": "FIFA World Cup Master",
-      "typeGroup": "FIFA World Cup Master",
-      "searchText": "db5 pelé brazil fifa world cup master"
-    },
-    {
-      "id": "DB5a",
-      "number": null,
-      "code": "DB5a",
-      "name": "Brazil",
-      "country": "FIFA World Cup Master Autograph",
-      "type": "296",
-      "typeGroup": "296",
-      "searchText": "db5a brazil fifa world cup master autograph 296"
-    },
-    {
-      "id": "DB6",
-      "number": null,
-      "code": "DB6",
-      "name": "Ronaldo",
-      "country": "Brazil",
-      "type": "FIFA World Cup Master",
-      "typeGroup": "FIFA World Cup Master",
-      "searchText": "db6 ronaldo brazil fifa world cup master"
-    },
-    {
-      "id": "DB6a",
-      "number": null,
-      "code": "DB6a",
-      "name": "Brazil",
-      "country": "FIFA World Cup Master Autograph",
-      "type": "298",
-      "typeGroup": "298",
-      "searchText": "db6a brazil fifa world cup master autograph 298"
-    },
-    {
-      "id": "DB7",
-      "number": null,
-      "code": "DB7",
-      "name": "Rivaldo",
-      "country": "Brazil",
-      "type": "FIFA World Cup Master",
-      "typeGroup": "FIFA World Cup Master",
-      "searchText": "db7 rivaldo brazil fifa world cup master"
-    },
-    {
-      "id": "DB7a",
-      "number": null,
-      "code": "DB7a",
-      "name": "Brazil",
-      "country": "FIFA World Cup Master Autograph",
-      "type": "294",
-      "typeGroup": "294",
-      "searchText": "db7a brazil fifa world cup master autograph 294"
-    },
-    {
-      "id": "DB8",
-      "number": null,
-      "code": "DB8",
-      "name": "Kaká",
-      "country": "Brazil",
-      "type": "FIFA World Cup Master",
-      "typeGroup": "FIFA World Cup Master",
-      "searchText": "db8 kaká brazil fifa world cup master"
-    },
-    {
-      "id": "DB8a",
-      "number": null,
-      "code": "DB8a",
-      "name": "Brazil",
-      "country": "FIFA World Cup Master Autograph",
-      "type": "293",
-      "typeGroup": "293",
-      "searchText": "db8a brazil fifa world cup master autograph 293"
-    },
-    {
-      "id": "DB9",
-      "number": null,
-      "code": "DB9",
-      "name": "Luka Modrić",
-      "country": "Croatia",
-      "type": "FIFA World Cup Master",
-      "typeGroup": "FIFA World Cup Master",
-      "searchText": "db9 luka modrić croatia fifa world cup master"
-    },
-    {
-      "id": "DB9a",
-      "number": null,
-      "code": "DB9a",
-      "name": "Croatia",
-      "country": "FIFA World Cup Master Autograph",
-      "type": "306",
-      "typeGroup": "306",
-      "searchText": "db9a croatia fifa world cup master autograph 306"
     },
     {
       "id": "LE-350",
@@ -8258,6 +8258,86 @@
       "searchText": "u1 nicolás tagliafico argentina core / hero update"
     },
     {
+      "id": "U2",
+      "number": null,
+      "code": "U2",
+      "name": "Nico González",
+      "country": "Argentina",
+      "type": "CORE / Hero Update",
+      "typeGroup": "CORE",
+      "searchText": "u2 nico gonzález argentina core / hero update"
+    },
+    {
+      "id": "U3",
+      "number": null,
+      "code": "U3",
+      "name": "Thomas Meunier",
+      "country": "Belgium",
+      "type": "CORE / Hero Update",
+      "typeGroup": "CORE",
+      "searchText": "u3 thomas meunier belgium core / hero update"
+    },
+    {
+      "id": "U4",
+      "number": null,
+      "code": "U4",
+      "name": "Alexis Saelemaekers",
+      "country": "Belgium",
+      "type": "CORE / Hero Update",
+      "typeGroup": "CORE",
+      "searchText": "u4 alexis saelemaekers belgium core / hero update"
+    },
+    {
+      "id": "U5",
+      "number": null,
+      "code": "U5",
+      "name": "Lucas Paquetá",
+      "country": "Brazil",
+      "type": "CORE / Hero Update",
+      "typeGroup": "CORE",
+      "searchText": "u5 lucas paquetá brazil core / hero update"
+    },
+    {
+      "id": "U6",
+      "number": null,
+      "code": "U6",
+      "name": "João Pedro",
+      "country": "Brazil",
+      "type": "CORE / Hero Update",
+      "typeGroup": "CORE",
+      "searchText": "u6 joão pedro brazil core / hero update"
+    },
+    {
+      "id": "U7",
+      "number": null,
+      "code": "U7",
+      "name": "Gabriel Martinelli",
+      "country": "Brazil",
+      "type": "CORE / Hero Update",
+      "typeGroup": "CORE",
+      "searchText": "u7 gabriel martinelli brazil core / hero update"
+    },
+    {
+      "id": "U8",
+      "number": null,
+      "code": "U8",
+      "name": "Jhon Lucumí",
+      "country": "Colombia",
+      "type": "CORE / Hero Update",
+      "typeGroup": "CORE",
+      "searchText": "u8 jhon lucumí colombia core / hero update"
+    },
+    {
+      "id": "U9",
+      "number": null,
+      "code": "U9",
+      "name": "Franjo Ivanović",
+      "country": "Croatia",
+      "type": "CORE / Hero Update",
+      "typeGroup": "CORE",
+      "searchText": "u9 franjo ivanović croatia core / hero update"
+    },
+    {
       "id": "U10",
       "number": null,
       "code": "U10",
@@ -8356,16 +8436,6 @@
       "type": "CORE / Hero Update",
       "typeGroup": "CORE",
       "searchText": "u19 david raum germany core / hero update"
-    },
-    {
-      "id": "U2",
-      "number": null,
-      "code": "U2",
-      "name": "Nico González",
-      "country": "Argentina",
-      "type": "CORE / Hero Update",
-      "typeGroup": "CORE",
-      "searchText": "u2 nico gonzález argentina core / hero update"
     },
     {
       "id": "U20",
@@ -8468,16 +8538,6 @@
       "searchText": "u29 frenkie de jong netherlands core / hero update"
     },
     {
-      "id": "U3",
-      "number": null,
-      "code": "U3",
-      "name": "Thomas Meunier",
-      "country": "Belgium",
-      "type": "CORE / Hero Update",
-      "typeGroup": "CORE",
-      "searchText": "u3 thomas meunier belgium core / hero update"
-    },
-    {
       "id": "U30",
       "number": null,
       "code": "U30",
@@ -8578,16 +8638,6 @@
       "searchText": "u39 ferran torres spain core / hero update"
     },
     {
-      "id": "U4",
-      "number": null,
-      "code": "U4",
-      "name": "Alexis Saelemaekers",
-      "country": "Belgium",
-      "type": "CORE / Hero Update",
-      "typeGroup": "CORE",
-      "searchText": "u4 alexis saelemaekers belgium core / hero update"
-    },
-    {
       "id": "U40",
       "number": null,
       "code": "U40",
@@ -8676,56 +8726,6 @@
       "type": "CORE / Hero Update",
       "typeGroup": "CORE",
       "searchText": "u48 nicolás de la cruz uruguay core / hero update"
-    },
-    {
-      "id": "U5",
-      "number": null,
-      "code": "U5",
-      "name": "Lucas Paquetá",
-      "country": "Brazil",
-      "type": "CORE / Hero Update",
-      "typeGroup": "CORE",
-      "searchText": "u5 lucas paquetá brazil core / hero update"
-    },
-    {
-      "id": "U6",
-      "number": null,
-      "code": "U6",
-      "name": "João Pedro",
-      "country": "Brazil",
-      "type": "CORE / Hero Update",
-      "typeGroup": "CORE",
-      "searchText": "u6 joão pedro brazil core / hero update"
-    },
-    {
-      "id": "U7",
-      "number": null,
-      "code": "U7",
-      "name": "Gabriel Martinelli",
-      "country": "Brazil",
-      "type": "CORE / Hero Update",
-      "typeGroup": "CORE",
-      "searchText": "u7 gabriel martinelli brazil core / hero update"
-    },
-    {
-      "id": "U8",
-      "number": null,
-      "code": "U8",
-      "name": "Jhon Lucumí",
-      "country": "Colombia",
-      "type": "CORE / Hero Update",
-      "typeGroup": "CORE",
-      "searchText": "u8 jhon lucumí colombia core / hero update"
-    },
-    {
-      "id": "U9",
-      "number": null,
-      "code": "U9",
-      "name": "Franjo Ivanović",
-      "country": "Croatia",
-      "type": "CORE / Hero Update",
-      "typeGroup": "CORE",
-      "searchText": "u9 franjo ivanović croatia core / hero update"
     },
     {
       "id": "XXL-AH",
