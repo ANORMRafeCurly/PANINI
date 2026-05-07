@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-07T15:53:10.697Z",
+  "generatedAt": "2026-05-07T15:54:22.162Z",
   "total": 913,
-  "ownedCount": 121,
-  "missingCount": 792,
-  "duplicatesTotal": 12,
+  "ownedCount": 123,
+  "missingCount": 790,
+  "duplicatesTotal": 14,
   "owned": [
     {
       "id": "1",
@@ -184,6 +184,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "88 stephen eustáquio canada core / hero"
+    },
+    {
+      "id": "94",
+      "number": "94",
+      "code": "94",
+      "name": "Vozinha",
+      "country": "Cape Verde",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "94 vozinha cape verde special 1 / fan favourite"
     },
     {
       "id": "100",
@@ -424,6 +434,16 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "253 zion suzuki japan core / hero"
+    },
+    {
+      "id": "262",
+      "number": "262",
+      "code": "262",
+      "name": "Yazan Al-Naimat",
+      "country": "Jordan",
+      "type": "SPECIAL 1 / Fan Favourite",
+      "typeGroup": "SPECIAL 1",
+      "searchText": "262 yazan al-naimat jordan special 1 / fan favourite"
     },
     {
       "id": "274",
@@ -1968,16 +1988,6 @@
       "searchText": "93 cyle larin canada core / hero"
     },
     {
-      "id": "94",
-      "number": "94",
-      "code": "94",
-      "name": "Vozinha",
-      "country": "Cape Verde",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "94 vozinha cape verde special 1 / fan favourite"
-    },
-    {
       "id": "95",
       "number": "95",
       "code": "95",
@@ -3406,16 +3416,6 @@
       "type": "CORE / Hero",
       "typeGroup": "CORE",
       "searchText": "261 ayase ueda japan core / hero"
-    },
-    {
-      "id": "262",
-      "number": "262",
-      "code": "262",
-      "name": "Yazan Al-Naimat",
-      "country": "Jordan",
-      "type": "SPECIAL 1 / Fan Favourite",
-      "typeGroup": "SPECIAL 1",
-      "searchText": "262 yazan al-naimat jordan special 1 / fan favourite"
     },
     {
       "id": "263",
@@ -9147,6 +9147,7 @@
     "342": 1,
     "366": 1,
     "397": 1,
+    "431": 2,
     "433": 1,
     "539": 1
   }
